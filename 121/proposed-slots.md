@@ -22,7 +22,11 @@ The cummulative requested slots can be seen below:
 | 10 | Publishing End-Site Prefix Lengths  | Randy Bush | 110  | ?   |  |
 | 15 | OPSAREA: NEMOPS  | TBC | 125  | ?   |  |
 
-
+# Requests from the chairs
+ * PCAP
+ * TACACS*
+ * MUD
+   
 # Detailed Requested Slots
 
 ## SAV-based Anti-DDoS Architecture 
