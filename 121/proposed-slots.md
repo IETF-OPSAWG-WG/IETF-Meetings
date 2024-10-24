@@ -1,6 +1,6 @@
 # Requested Slots
 
-This page records received slot requests. The agenda will be published [here](https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/121/agenda.md).
+This page records received slot requests. The agenda will be published [here](https://github.com/IETF-OPSAWG-WG/IETF-Meetings/blob/main/121/agenda.md).
 
 
 
@@ -10,7 +10,7 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              |  Presenter | Cummulative Slots   | In Person   | Granted Status|
 |:-------------:|:-----------------:|:-----:|:----------------|:--------|:--------|
-| 10 | SAV-based Anti-DDoS Architecture | Mingzhe Xing <xingmz@zgclab.edu.cn> | 10  | |  |
+| 10 | SAV-based Anti-DDoS Architecture | Mingzhe Xing | 10  | |  |
 | 10 | draft-rcr-opsawg-operational-compute-metrics  | Nacho | 20  | Yes  |  |
 | 10 | draft-ietf-opsawg-ipfix-gtpu-00.txt | Dan Voyer | 30  | Yes  |  |
 | 10 | draft-contreras-opsawg-scheduling-oam-tests | Victor López / Luis Contreras (to be decided) | 40  | Yes  |  |
