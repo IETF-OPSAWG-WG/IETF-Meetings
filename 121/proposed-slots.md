@@ -24,7 +24,7 @@ The cummulative requested slots can be seen below:
 
 # Requests from the chairs
  * PCAP
- * TACACS*
+ * TACACS+
  * MUD
    
 # Detailed Requested Slots
