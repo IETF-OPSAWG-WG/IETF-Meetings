@@ -11,9 +11,9 @@
 |:-------------:|:---------------------------------------:|:-----------|
 | 09:30 - 09:40 | Agenda Bashing & Introduction & Document Status  | Chairs     |
 | 09:40 - 09:45 | PCAP Document Status | Michael Richardson     | Michael Richardson |
-| 09:45 - 09:50 | An Information Model for Packet Discard Reporting | John Evans     |
-| 09:50 - 10:00 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
-| 10:00 - 10:10 | Export of GTP-U Information in IPFIX) | Dan Voyer|
+| 09:45 - 09:55 | An Information Model for Packet Discard Reporting | John Evans     |
+| 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
+| 10:05 - 10:10 | Export of GTP-U Information in IPFIX) | Dan Voyer|
 | 10:10 - 10:20 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
 | 10:20 - 10:30 | Publishing End-Site Prefix Lengths  | Randy Bush ((Remote))     |
 | 10:30 - 10:40 | SAV-based Anti-DDoS Architecture  | Mingzhe Xing    |
