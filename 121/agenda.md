@@ -10,10 +10,11 @@
 | Slot          | Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
 | 09:30 - 09:40 | Agenda Bashing & Introduction & Status  | Chairs     |
-| 09:40 - 09:45 | PCAP Document Status | Michael Richardson     |
-| 10:10 - 10:40 | YANG-Push to Message Broker Integration | Thomas     |
-| 10:40 - 10:45 | Next Steps for the terminology draft | Chairs|
-| 10:45 - 11:00 | Incident Management YANG Module | Qin     |
+| 09:40 - 09:45 | PCAP Document Status | Michael Richardson     | Michael Richardson |
+| 09:45 - 09:55 | An Information Model for Packet Discard Reporting | John Evans     |
+| 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
+| 10:05 - 10:15 | Export of GTP-U Information in IPFIX) | Dan Voyer|
+| 10:15 - 11:00 | Incident Management YANG Module | Qin     |
 | 11:00 - 11:20 | Follow up to the Anomaly Interim | Thomas/Vincenzo     |
 | 11:20 - 11:30 | Flash Teasers | Robert/Rob/Xing     |
 
@@ -33,40 +34,27 @@
 
  * Presenters: Michael Richardson
  * Reading Material:
+ * draft-ietf-opsawg-mud-acceptable-urls:
+   + [draft-ietf-opsawg-mud-acceptable-urls](https://datatracker.ietf.org/doc/draft-ietf-opsawg-mud-acceptable-urls/)
    + [draft-ietf-opsawg-pcaplinktype](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/)
    + [draft-ietf-opsawg-pcap](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/)
    + [draft-ietf-opsawg-pcapng](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/)
-
    
-### 3. YANG-Push to Message Broker Integration (30 min)
+### 3. An Information Model for Packet Discard Reporting (10 min)
 
-#### 3.1 An Architecture for YANG-Push to Message Broker Integration (20 min)
+ * Presenter: John Evans
+ * Reading Material: [draft-ietf-opsawg-discardmodel](https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-discardmodel)
 
- * Presenter: Thomas Graf
- * Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
+### 4. A Data Manifest for Contextualized Telemetry Data (10 min)
 
-#### 3.2. Operator/Implementer Contribution: YANG-Push Next Steps  (10 min)
+ * Presenter: Jean Quilbeuf
+ * Reading Material: [draft-ietf-opsawg-collected-data-manifest](https://datatracker.ietf.org/doc/draft-ietf-opsawg-collected-data-manifest/)
 
- * Presenter: Thomas Graf
- * Reading Material: In over 4 workshop iterations we collected from IETF YANG-Push implementers and operators feedback on how IETF YANG-Push is being used, what they liked, what could be improved and what never will be used or implemented.
+### 5. Export of GTP-U Information in IP Flow Information Export (IPFIX) (10 min)
 
-### 4. Anomaly Detection and Incident Management (40 min)
+ * Presenter: Dan Voyer
+ * Reading Material: [draft-ietf-opsawg-ipfix-gtpu]([https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gtpu/))
 
-#### 4.1 Next Steps for the terminology draft (Chairs, 5 min)
-
-#### 4.2 Incident Management YANG Module (15 min)
-
- * Presenter: Qin Wu
- * Reading Material: [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/)
-
-#### 4.3. Follow up to the Anomaly Interim  (20 min)
-
- * Presenter: Thomas Graf/Vincenzo Riccobene
- * Reading Material:
-   + [slides-interim-2024-nmop-03-sessa-chairs-questions](https://datatracker.ietf.org/meeting/interim-2024-nmop-03/materials/slides-interim-2024-nmop-03-sessa-chairs-questions-00)
-   + [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture/)
-   + [draft-netana-opsawg-nmrg-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-netana-opsawg-nmrg-network-anomaly-semantics/)
-   + [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
 
 ### 5. Flash Prez: 1-slide Teasers (10 min)
 
