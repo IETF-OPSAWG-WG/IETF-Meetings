@@ -15,7 +15,6 @@
 | 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
 | 10:05 - 10:15 | Export of GTP-U Information in IPFIX) | Dan Voyer|
 | 10:15 - 10:25 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
-
 | 10 min | Publishing End-Site Prefix Lengths  | Randy Bush (TBC)     |
 
 
