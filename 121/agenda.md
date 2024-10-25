@@ -58,7 +58,7 @@
 ### 5. Export of GTP-U Information in IP Flow Information Export (IPFIX) (5 min)
 
  * Presenter: Dan Voyer
- * Reading Material: [draft-ietf-opsawg-ipfix-gtpu]([https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gtpu/))
+ * Reading Material: [draft-ietf-opsawg-ipfix-gtpu]([https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gtpu/)
 
 ### 6. A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests (10 min)
 
@@ -83,7 +83,7 @@
 ### 10. Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment (10 min)
 
  * Presenter: Jordi Ros / Luis Contreras (TBC)
- * Reading Material: [draft-rcr-opsawg-operational-compute-metrics]([https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/](https://datatracker.ietf.org/doc/draft-rcr-opsawg-operational-compute-metrics/))
+ * Reading Material: [draft-rcr-opsawg-operational-compute-metrics]([https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/](https://datatracker.ietf.org/doc/draft-rcr-opsawg-operational-compute-metrics/)
 
 ### 11. Intent-Based Security Management Automation for Cloud-Based Security Services & COIN (10 min)
 
