@@ -22,7 +22,7 @@
 
 | Slot          |Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
-| 11:10 - 11:10 | NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  | Warren & Benoit & Kent (TBC) |
+| 11:10 - 11:20 | NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  | Warren & Benoit & Kent (TBC) |
 | 11:25 - 11:30 | Open Mic                                |          All     |
 
 
