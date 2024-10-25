@@ -41,7 +41,6 @@
 
  * Presenters: Michael Richardson
  * Reading Material:
- * draft-ietf-opsawg-mud-acceptable-urls:
    + [draft-ietf-opsawg-pcaplinktype](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/)
    + [draft-ietf-opsawg-pcap](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/)
    + [draft-ietf-opsawg-pcapng](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/)
