@@ -3,48 +3,40 @@
 * When: Wed, Nov 06, 2024
 * Co-Chairs: Joe Clarke & Benoît Claise
 
-## Below to be updated (template from NMOP)
-
-## Current WG's priorities
-
-* *P1*: NETCONF/YANG Push integration with message brokers & time series databases
-* *P2*: Anomaly detection and incident management
-* *P3*: Issues related to deployment/usage of YANG topology modules (e.g., to model a Digital Map)
-* *P4*: Consider/plan an approach for updating RFC 3535 (collecting updated operator requirements for IETF network management solutions)
-
-> For P4 items: We propose to submit those for the forthcoming NEMOPS Workshop. Will discuss in future whether we keep this item in the charter or remove it
-> after the NEMOPS Workshop takes place.
-
 ## Compact Agenda
 
 ### Session: OPSAWG 
 
-| Slot          | Priority Label |Topic                                    | Presenters |
-|:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 09:30 - 09:40 |                | Agenda Bashing & Introduction & Status  | Chairs     |
-| 09:40 - 10:10 |P3              | Digital Map: Concepts & Requirements | Olga     |
-| 10:10 - 10:40 |P1              | YANG-Push to Message Broker Integration | Thomas     |
-| 10:40 - 10:45 |P2              | Next Steps for the terminology draft | Chairs|
-| 10:45 - 11:00 |P2              | Incident Management YANG Module | Qin     |
-| 11:00 - 11:20 |P2              | Follow up to the Anomaly Interim | Thomas/Vincenzo     |
-| 11:20 - 11:30 |                | Flash Teasers | Robert/Rob/Xing     |
+| Slot          | Topic                                    | Presenters |
+|:-------------:|:---------------------------------------:|:-----------|
+| 09:30 - 09:40 | Agenda Bashing & Introduction & Status  | Chairs     |
+| 09:40 - 09:45 | PCAP Document Status | Michael Richardson     |
+| 10:10 - 10:40 | YANG-Push to Message Broker Integration | Thomas     |
+| 10:40 - 10:45 | Next Steps for the terminology draft | Chairs|
+| 10:45 - 11:00 | Incident Management YANG Module | Qin     |
+| 11:00 - 11:20 | Follow up to the Anomaly Interim | Thomas/Vincenzo     |
+| 11:20 - 11:30 | Flash Teasers | Robert/Rob/Xing     |
 
 ### Session 2
 
-| Slot          | Priority Label |Topic                                    | Presenters |
-|:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 11:10 - 11:10 |                | NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  | Warren & Benoit & Kent (TBC) |
-| 11:25 - 11:30 |                | Open Mic                                |          All     |
+| Slot          |Topic                                    | Presenters |
+|:-------------:|:---------------------------------------:|:-----------|
+| 11:10 - 11:10 | NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  | Warren & Benoit & Kent (TBC) |
+| 11:25 - 11:30 | Open Mic                                |          All     |
 
 
 ## Session 1: Detailed Agenda
 
 ### 1. Agenda Bashing & Introduction (Chairs) (10 min)
 
-### 2. Digital Map: Concepts & Requirements (30 min)
+### 2. PCAP Document Status (5 min)
 
- * Presenters: Olga Havel
- * Reading Material: [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/)
+ * Presenters: Michael Richardson
+ * Reading Material:
+   + [draft-ietf-opsawg-pcaplinktype](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/)
+   + [draft-ietf-opsawg-pcap](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/)
+   + [draft-ietf-opsawg-pcapng](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/)
+
    
 ### 3. YANG-Push to Message Broker Integration (30 min)
 
