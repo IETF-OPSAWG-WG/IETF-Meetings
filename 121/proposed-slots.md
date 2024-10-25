@@ -10,7 +10,7 @@ The cummulative requested slots can be seen below:
 
 | Requested Slot          | Topic              |  Presenter | Cummulative Slots   | In Person?   | Adopted?  | Discussed? | Granted Status|
 |:-------------:|:-----------------:|:-----:|:----------------|:--------|:--------|:--------|:--------|
-| 10 | SAV-based Anti-DDoS Architecture | Mingzhe Xing | 10  | ? | No | Yes |  |
+| 10 | SAV-based Anti-DDoS Architecture | Mingzhe Xing | 10  | ? | No | Yes | Yes |
 | 10 | draft-rcr-opsawg-operational-compute-metrics  | Jordi Ros / Luis Contreras (to be decided) | 20  | Yes  | No | No  | |
 | 10 | draft-ietf-opsawg-ipfix-gtpu-00.txt | Dan Voyer | 30  | Yes  | Yes | Yes  | Yes |
 | 10 | draft-contreras-opsawg-scheduling-oam-tests | Victor López / Luis Contreras (to be decided) | 40  | Yes | No | No  | Yes |
@@ -19,7 +19,7 @@ The cummulative requested slots can be seen below:
 | 10 | Data Manifest  | Jean Quilbeuf | 80  | Yes  | Yes | Yes  | Yes |
 | 10 | Discard Model  | John Evans | 90  | Yes  | Yes | Yes  | Yes |
 | 10 | A YANG Data Model for Network Element Threat Surface Management  | Lei YAN | 100  | No  | No | Yes |  |
-| 10 | Publishing End-Site Prefix Lengths  | Randy Bush | 110  | No   | No | Yes |  |
+| 10 | Publishing End-Site Prefix Lengths  | Randy Bush | 110  | No   | No | Yes | Yes |
 | 15 | OPSAREA: NEMOPS  | TBC | 125  | ?   | N/A | Yes | Yes |
 
 # Requests from the chairs
