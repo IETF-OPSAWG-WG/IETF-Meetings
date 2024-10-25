@@ -27,7 +27,7 @@
 
 | Slot          |Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
-| 11:10 - 11:20 | NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  | Warren & Benoit & Kent (TBC) |
+| 11:10 - 11:25 | NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  | Warren & Benoit & Kent (TBC) |
 | 11:25 - 11:30 | Open Mic                                |          All     |
 
 
@@ -57,7 +57,7 @@
  * Presenter: Jean Quilbeuf
  * Reading Material: [draft-ietf-opsawg-collected-data-manifest](https://datatracker.ietf.org/doc/draft-ietf-opsawg-collected-data-manifest/)
 
-### 5. Export of GTP-U Information in IP Flow Information Export (IPFIX) (10 min)
+### 5. Export of GTP-U Information in IP Flow Information Export (IPFIX) (5 min)
 
  * Presenter: Dan Voyer
  * Reading Material: [draft-ietf-opsawg-ipfix-gtpu]([https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gtpu/))
@@ -91,9 +91,9 @@
 
  * Presenter: Jaehoon Paul Jeong
  * Reading Material:
-   + [draft-ietf-opsawg-mud-acceptable-urls](https://datatracker.ietf.org/doc/draft-ietf-opsawg-mud-acceptable-urls/)
-   + [draft-ietf-opsawg-pcaplinktype](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/)
-   + [draft-ietf-opsawg-pcap](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/)
+   + [draft-jeong-opsawg-security-management-automation]([https://datatracker.ietf.org/doc/draft-ietf-opsawg-mud-acceptable-urls/](https://datatracker.ietf.org/doc/draft-jeong-opsawg-security-management-automation/))
+   + [draft-lingga-opsawg-analytics-interface-dm-00]([https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/](https://datatracker.ietf.org/doc/draft-lingga-opsawg-analytics-interface-dm/))
+   + [draft-jeong-opsawg-i2inf-problem-statement]([https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-problem-statement/))
    + [draft-ietf-opsawg-pcapng](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/)
 
 ## Session 2: OPS-Area
