@@ -9,13 +9,15 @@
 
 | Slot          | Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
-| 09:30 - 09:40 | Agenda Bashing & Introduction & Status  | Chairs     |
+| 09:30 - 09:40 | Agenda Bashing & Introduction & Document Status  | Chairs     |
 | 09:40 - 09:45 | PCAP Document Status | Michael Richardson     | Michael Richardson |
 | 09:45 - 09:55 | An Information Model for Packet Discard Reporting | John Evans     |
 | 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
 | 10:05 - 10:15 | Export of GTP-U Information in IPFIX) | Dan Voyer|
 | 10:15 - 10:25 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
-| 10:25 - 10:35 |     |
+
+| 10 min | Publishing End-Site Prefix Lengths  | Randy Bush (TBC)     |
+
 
 ### Session 2
 
@@ -27,7 +29,9 @@
 
 ## Session 1: Detailed Agenda
 
-### 1. Agenda Bashing & Introduction (Chairs) (10 min)
+### 1. Agenda Bashing & Introduction & Document Status (10 min)
+
+* Presenter: Joe Clarke & Benoit Claise
 
 ### 2. PCAP Document Status (5 min)
 
