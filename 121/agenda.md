@@ -42,7 +42,6 @@
  * Presenters: Michael Richardson
  * Reading Material:
  * draft-ietf-opsawg-mud-acceptable-urls:
-   + [draft-ietf-opsawg-mud-acceptable-urls](https://datatracker.ietf.org/doc/draft-ietf-opsawg-mud-acceptable-urls/)
    + [draft-ietf-opsawg-pcaplinktype](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/)
    + [draft-ietf-opsawg-pcap](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/)
    + [draft-ietf-opsawg-pcapng](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/)
@@ -94,7 +93,7 @@
    + [draft-jeong-opsawg-security-management-automation]([https://datatracker.ietf.org/doc/draft-ietf-opsawg-mud-acceptable-urls/](https://datatracker.ietf.org/doc/draft-jeong-opsawg-security-management-automation/))
    + [draft-lingga-opsawg-analytics-interface-dm-00]([https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/](https://datatracker.ietf.org/doc/draft-lingga-opsawg-analytics-interface-dm/))
    + [draft-jeong-opsawg-i2inf-problem-statement]([https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-problem-statement/))
-   + [draft-ietf-opsawg-pcapng](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/)
+   + [draft-jeong-opsawg-i2inf-framework]([https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-framework/))
 
 ## Session 2: OPS-Area
 
