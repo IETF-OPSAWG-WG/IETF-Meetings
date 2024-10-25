@@ -67,25 +67,30 @@
  * Presenter: Victor López / Luis Contreras (TBC)
  * Reading Material: [draft-contreras-opsawg-scheduling-oam-tests](https://datatracker.ietf.org/doc/draft-contreras-opsawg-scheduling-oam-tests/)
 
-### 7. SAV-based Anti-DDoS Architecture (10 min)
-
- * Presenter: Randy Bush
- * Reading Material: [draft-cui-savnet-anti-ddos](https://datatracker.ietf.org/doc/draft-cui-savnet-anti-ddos/)
-
-### 8. Publishing End-Site Prefix Lengths (10 min)
+### 7. Publishing End-Site Prefix Lengths (10 min)
 
  * Presenter: Mingzhe Xing
  * Reading Material: [draft-gasser-opsawg-prefix-lengths](https://datatracker.ietf.org/doc/html/draft-gasser-opsawg-prefix-lengths)
 
-### 9. Publishing End-Site Prefix Lengths (10 min)
+### 8. SAV-based Anti-DDoS Architecture (10 min)
 
- * Presenter: 
+ * Presenter: Randy Bush
+ * Reading Material: [draft-cui-savnet-anti-ddos](https://datatracker.ietf.org/doc/draft-cui-savnet-anti-ddos/)
+
+### 9. A YANG Data Model for Network Element Threat Surface Management (10 min)
+
+ * Presenter: Lei YAN
  * Reading Material: [draft-hu-opsawg-network-element-tsm-yang](https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/)
 
-### 10. Publishing End-Site Prefix Lengths (10 min)
+### 10. Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment (10 min)
 
- * Presenter: 
- * Reading Material: [draft-hu-opsawg-network-element-tsm-yang](https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/)
+ * Presenter: Jordi Ros / Luis Contreras (TBC)
+ * Reading Material: [draft-rcr-opsawg-operational-compute-metrics]([https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/](https://datatracker.ietf.org/doc/draft-rcr-opsawg-operational-compute-metrics/))
+
+### 11. Intent-Based Security Management Automation for Cloud-Based Security Services & COIN (10 min)
+
+ * Presenter: Jaehoon Paul Jeong
+ * Reading Material: [draft-rcr-opsawg-operational-compute-metrics]([https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/](https://datatracker.ietf.org/doc/draft-rcr-opsawg-operational-compute-metrics/))
 
 ## Session 2: OPS-Area
 
