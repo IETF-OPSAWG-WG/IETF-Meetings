@@ -33,12 +33,8 @@
 
 | Slot          | Priority Label |Topic                                    | Presenters |
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 18:00 - 18:05 |                | Introduction                            | Chairs     |
-| 18:05 - 18:20 |P1              | Validate Configured Subscription YANG-Push Publisher Implementations | Yannick     |
-| 18:20 - 18:40 |P3              | Digital Map Hackathons | Sherif/Olga/Italo     |
-| 18:40 - 18:50 |P2              | Network Anomaly Lifecycle Hackathon | Vincenzo      |
-| 18:50 - 18:55 |                | Knowlege Graph for Network Operations Hackathon | Mike     |
-| 18:55 - 19:00 |                | Open Mic  | All     |
+| 11:10 - 11:10 |                | NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  | Warren & Benoit & Kent (TBC) |
+| 11:25 - 11:30 |                | Open Mic                                |          All     |
 
 
 ## Session 1: Detailed Agenda
@@ -89,32 +85,14 @@
 
 ## Session 2: OPS-Area
 
-### 1. Agenda Bashing & Introduction (Chairs) (5 min)
+### 1. NEMOPS Workshop (news from LACNOG, NANOG, RIPE)  ( 15 min)
 
-### 2. Validate Configured Subscription YANG-Push Publisher Implementations ( 15 min)
+* Presenter: Warren & Benoit & Kent (TBC)
+* Reading Material: [NEMOPS](https://www.iab.org/announcements/call-for-papers-nemops-workshop/)
 
-* Presenter: Yannick Buchs
-* Reading Material: [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/)
+### 2. Open Mic. (5 min)
 
-### 3. Digital Map Hackathons (20 min)
+ * Presenter: Warren & Mahesh
 
- * Presenter: Olga/Sherif/Italo
-  * Reading Material:
-     + [draft-ietf-nmop-digital-map-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-digital-map-concept/) 
-     + [draft-havel-nmop-digital-map](https://datatracker.ietf.org/doc/draft-havel-nmop-digital-map/)
-     + TE Models
-
-### 4. Network Anomaly Lifecycle (Hackathon) (10 min)
-
- * Presenter: Vincenzo Riccobene
-  * Reading Material: [draft-netana-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/)
-
-
-### 5. Knowlege Graph for Network Operations (Hackathon) (5 min)
-
- * Presenter: Michael Mackey
-  * Reading Material: [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
-
-### 6. Misc (5 min)
 
 
