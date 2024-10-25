@@ -15,7 +15,7 @@
 | 09:50 - 10:00 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
 | 10:00 - 10:10 | Export of GTP-U Information in IPFIX) | Dan Voyer|
 | 10:10 - 10:20 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
-| 10:20 - 10:30 | Publishing End-Site Prefix Lengths  | Randy Bush (TBC)     |
+| 10:20 - 10:30 | Publishing End-Site Prefix Lengths  | Randy Bush ((Remote))     |
 | 10:30 - 10:40 | SAV-based Anti-DDoS Architecture  | Mingzhe Xing    |
 | 10:40 - 10:50 | A YANG Data Model for Network Element Threat Surface Management  | Lei YAN    |
 | 10:50 - 11:00 | Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment  | Jordi Ros / Luis Contreras (TBC)   |
@@ -90,7 +90,11 @@
 ### 11. Intent-Based Security Management Automation for Cloud-Based Security Services & COIN (10 min)
 
  * Presenter: Jaehoon Paul Jeong
- * Reading Material: [draft-rcr-opsawg-operational-compute-metrics]([https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/](https://datatracker.ietf.org/doc/draft-rcr-opsawg-operational-compute-metrics/))
+ * Reading Material:
+   + [draft-ietf-opsawg-mud-acceptable-urls](https://datatracker.ietf.org/doc/draft-ietf-opsawg-mud-acceptable-urls/)
+   + [draft-ietf-opsawg-pcaplinktype](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcaplinktype/)
+   + [draft-ietf-opsawg-pcap](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcap/)
+   + [draft-ietf-opsawg-pcapng](https://datatracker.ietf.org/doc/draft-ietf-opsawg-pcapng/)
 
 ## Session 2: OPS-Area
 
