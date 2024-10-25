@@ -67,12 +67,12 @@
 
 ### 7. Publishing End-Site Prefix Lengths (10 min)
 
- * Presenter: Mingzhe Xing
+ * Presenter: Randy Bush
  * Reading Material: [draft-gasser-opsawg-prefix-lengths](https://datatracker.ietf.org/doc/html/draft-gasser-opsawg-prefix-lengths)
 
 ### 8. SAV-based Anti-DDoS Architecture (10 min)
 
- * Presenter: Randy Bush
+ * Presenter: Mingzhe Xing
  * Reading Material: [draft-cui-savnet-anti-ddos](https://datatracker.ietf.org/doc/draft-cui-savnet-anti-ddos/)
 
 ### 9. A YANG Data Model for Network Element Threat Surface Management (10 min)
