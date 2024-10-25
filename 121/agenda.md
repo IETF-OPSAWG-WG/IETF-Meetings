@@ -14,9 +14,8 @@
 | 09:45 - 09:55 | An Information Model for Packet Discard Reporting | John Evans     |
 | 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
 | 10:05 - 10:15 | Export of GTP-U Information in IPFIX) | Dan Voyer|
-| 10:15 - 11:00 | Incident Management YANG Module | Qin     |
-| 11:00 - 11:20 | Follow up to the Anomaly Interim | Thomas/Vincenzo     |
-| 11:20 - 11:30 | Flash Teasers | Robert/Rob/Xing     |
+| 10:15 - 10:25 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
+| 10:25 - 10:35 |     |
 
 ### Session 2
 
@@ -55,12 +54,13 @@
  * Presenter: Dan Voyer
  * Reading Material: [draft-ietf-opsawg-ipfix-gtpu]([https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gtpu/))
 
+### 6. A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests (10 min)
 
-### 5. Flash Prez: 1-slide Teasers (10 min)
+ * Presenter: Victor López / Luis Contreras (TBC)
+ * Reading Material: [draft-contreras-opsawg-scheduling-oam-tests](https://datatracker.ietf.org/doc/draft-contreras-opsawg-scheduling-oam-tests/)
 
-#### 5.1. YANG Template Framework (Robert)
-#### 5.2. AI based Network Management Agent (NMA): Concepts & Architecture (Xing)
-#### 5.3. NETCONF YANG-Push Observability (Rob)
+
+Victor López / Luis Contreras (to be decided)
 
 
 ## Session 2: OPS-Area
