@@ -17,11 +17,11 @@
 
 ## Compact Agenda
 
-### Session 1
+### Session: OPSAWG 
 
 | Slot          | Priority Label |Topic                                    | Presenters |
 |:-------------:|:--------------:|:---------------------------------------:|:-----------|
-| 09:30 - 09:40 |                | Agenda Bashing & Introduction          | Chairs     |
+| 09:30 - 09:40 |                | Agenda Bashing & Introduction & Status  | Chairs     |
 | 09:40 - 10:10 |P3              | Digital Map: Concepts & Requirements | Olga     |
 | 10:10 - 10:40 |P1              | YANG-Push to Message Broker Integration | Thomas     |
 | 10:40 - 10:45 |P2              | Next Steps for the terminology draft | Chairs|
@@ -87,7 +87,7 @@
 #### 5.3. NETCONF YANG-Push Observability (Rob)
 
 
-## Session 2: Detailed Agenda (Hackathon-focused)
+## Session 2: OPS-Area
 
 ### 1. Agenda Bashing & Introduction (Chairs) (5 min)
 
