@@ -11,12 +11,16 @@
 |:-------------:|:---------------------------------------:|:-----------|
 | 09:30 - 09:40 | Agenda Bashing & Introduction & Document Status  | Chairs     |
 | 09:40 - 09:45 | PCAP Document Status | Michael Richardson     | Michael Richardson |
-| 09:45 - 09:55 | An Information Model for Packet Discard Reporting | John Evans     |
-| 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
-| 10:05 - 10:15 | Export of GTP-U Information in IPFIX) | Dan Voyer|
-| 10:15 - 10:25 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
-| 10:25 - 10:35 | Publishing End-Site Prefix Lengths  | Randy Bush (TBC)     |
-| 10:35 - 10:45 | SAV-based Anti-DDoS Architecture  | Mingzhe Xing    |
+| 09:45 - 09:50 | An Information Model for Packet Discard Reporting | John Evans     |
+| 09:50 - 10:00 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
+| 10:00 - 10:10 | Export of GTP-U Information in IPFIX) | Dan Voyer|
+| 10:10 - 10:20 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
+| 10:20 - 10:30 | Publishing End-Site Prefix Lengths  | Randy Bush (TBC)     |
+| 10:30 - 10:40 | SAV-based Anti-DDoS Architecture  | Mingzhe Xing    |
+| 10:40 - 10:50 | A YANG Data Model for Network Element Threat Surface Management  | Lei YAN    |
+| 10:50 - 11:00 | Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment  | Jordi Ros / Luis Contreras (TBC)   |
+| 11:00 - 11:10 | Intent-Based Security Management Automation for Cloud-Based Security Services & COIN  | Jaehoon Paul Jeong   |
+
 
 
 ### Session 2
@@ -68,11 +72,20 @@
  * Presenter: Randy Bush
  * Reading Material: [draft-cui-savnet-anti-ddos](https://datatracker.ietf.org/doc/draft-cui-savnet-anti-ddos/)
 
-### 7. Publishing End-Site Prefix Lengths (10 min)
+### 8. Publishing End-Site Prefix Lengths (10 min)
 
  * Presenter: Mingzhe Xing
  * Reading Material: [draft-gasser-opsawg-prefix-lengths](https://datatracker.ietf.org/doc/html/draft-gasser-opsawg-prefix-lengths)
 
+### 9. Publishing End-Site Prefix Lengths (10 min)
+
+ * Presenter: 
+ * Reading Material: [draft-hu-opsawg-network-element-tsm-yang](https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/)
+
+### 10. Publishing End-Site Prefix Lengths (10 min)
+
+ * Presenter: 
+ * Reading Material: [draft-hu-opsawg-network-element-tsm-yang](https://datatracker.ietf.org/doc/draft-hu-opsawg-network-element-tsm-yang/)
 
 ## Session 2: OPS-Area
 
