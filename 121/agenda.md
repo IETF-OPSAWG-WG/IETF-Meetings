@@ -15,7 +15,8 @@
 | 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
 | 10:05 - 10:15 | Export of GTP-U Information in IPFIX) | Dan Voyer|
 | 10:15 - 10:25 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
-| 10 min | Publishing End-Site Prefix Lengths  | Randy Bush (TBC)     |
+| 10:25 - 10:35 | Publishing End-Site Prefix Lengths  | Randy Bush (TBC)     |
+| 10:35 - 10:45 | SAV-based Anti-DDoS Architecture  | Mingzhe Xing    |
 
 
 ### Session 2
@@ -62,8 +63,15 @@
  * Presenter: Victor López / Luis Contreras (TBC)
  * Reading Material: [draft-contreras-opsawg-scheduling-oam-tests](https://datatracker.ietf.org/doc/draft-contreras-opsawg-scheduling-oam-tests/)
 
+### 7. SAV-based Anti-DDoS Architecture (10 min)
 
-Victor López / Luis Contreras (to be decided)
+ * Presenter: Randy Bush
+ * Reading Material: [draft-cui-savnet-anti-ddos](https://datatracker.ietf.org/doc/draft-cui-savnet-anti-ddos/)
+
+### 7. Publishing End-Site Prefix Lengths (10 min)
+
+ * Presenter: Mingzhe Xing
+ * Reading Material: [draft-gasser-opsawg-prefix-lengths](https://datatracker.ietf.org/doc/html/draft-gasser-opsawg-prefix-lengths)
 
 
 ## Session 2: OPS-Area
