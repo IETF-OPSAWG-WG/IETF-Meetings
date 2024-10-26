@@ -15,9 +15,9 @@
 | 09:55 - 10:05 | A Data Manifest for Contextualized Telemetry Data | Jean Quilbeuf |
 | 10:05 - 10:10 | Export of GTP-U Information in IPFIX | Dan Voyer|
 | 10:10 - 10:20 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests  | Victor López / Luis Contreras (TBC)     |
-| 10:20 - 10:30 | Publishing End-Site Prefix Lengths  | Randy Bush ((Remote))     |
+| 10:20 - 10:30 | Publishing End-Site Prefix Lengths  | Randy Bush (Remote)     |
 | 10:30 - 10:40 | SAV-based Anti-DDoS Architecture  | Mingzhe Xing    |
-| 10:40 - 10:50 | A YANG Data Model for Network Element Threat Surface Management  | Lei YAN    |
+| 10:40 - 10:50 | A YANG Data Model for Network Element Threat Surface Management  |  Liang Xia   |
 | 10:50 - 11:00 | Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment  | Jordi Ros / Luis Contreras (TBC)   |
 | 11:00 - 11:10 | Intent-Based Security Management Automation for Cloud-Based Security Services & COIN  | Jaehoon Paul Jeong   |
 
