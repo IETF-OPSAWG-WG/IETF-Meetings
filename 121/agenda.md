@@ -57,7 +57,9 @@
 ### 6. Publishing End-Site Prefix Lengths (10 min)
 
 * Presenter: Randy Bush
-* Reading Material: [draft-gasser-opsawg-prefix-lengths](https://datatracker.ietf.org/doc/html/draft-gasser-opsawg-prefix-lengths)
+* Reading Material:
+  * [draft-gasser-opsawg-prefix-lengths](https://datatracker.ietf.org/doc/html/draft-gasser-opsawg-prefix-lengths)
+  * [draft-ymbk-opsawg-rpsl-extref](https://datatracker.ietf.org/doc/html/draft-ymbk-opsawg-rpsl-extref)
 
 ### 7. SAV-based Anti-DDoS Architecture (10 min)
 
