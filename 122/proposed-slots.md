@@ -17,7 +17,7 @@ The cumulative requested slots can be seen below:
 | 15 | draft-king-rokui-ainetops-usecases  | Reza Rokui | 70  | ?  | No | No  | No |
 | 5 | draft-ietf-opsawg-ipfix-gtpu  | Sriram Gopalakrishnan | 75  | No  | Yes | Yes  | Yes |
 | 5 | draft-lin-opsawg-ipfix-quic-header  | Changwang Lin | 80  | ?  | No | No |  |
-| 10 | draft-ietf-netconf-configuration-tracing  | Jean Quilbeuf / Benoit Claise | 90  | Depends   | Yes | Yes | Yes |
+| 10 | draft-ietf-opsawg-collected-data-manifest  | Jean Quilbeuf / Benoit Claise | 90  | Depends   | Yes | Yes | Yes |
 | 10 | Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX) (draft-ietf-opsawg-ipfix-on-path-telemetry) | Thomas Graf | 100 | Yes | Yes | Yes | Yes |
 | 10 |  draft-lopez-opsawg-yang-provenance | Diego Lopez | 110 | Yes | No | Yes | Yes |
 | 5 | OPSAREA: Introduce Med | ADs | 115 | Yes | N/A | Yes | Yes |
