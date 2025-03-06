@@ -90,7 +90,7 @@
 
 ### 2. NEMOPS Workshop Readout  (15 min)
 
-* Presenter: Wes or Dhruv
+* Presenter: Dhruv
 * Reading Material: [draft-iab-nemops-workshop-report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/)
 
 ### 3. Pydantify – Generate Pydantic Models from YANG (10 min)
