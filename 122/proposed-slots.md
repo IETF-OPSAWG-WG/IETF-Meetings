@@ -14,7 +14,7 @@ The cumulative requested slots can be seen below:
 | 5 | draft-ietf-opsawg-ipfix-alt-mark | Giuseppe Fioccola | 35  | Yes | Yes | Yes  | Yes |
 | 10 | AI based Network Management Agent(NMA): Concepts and Architecture (draft-zhao-nmop-network-management-agent)  | Xing Zhao | 45  | Yes  | No | No  | |
 | 10 | Pydantify – Generate Pydantic Models from YANG  | Urs Baumann | 55  | ?  | No | No  | |
-| 15 | draft-king-rokui-ainetops-usecases  | Reza Rokui | 70  | ?  | No | No  |  |
+| 15 | draft-king-rokui-ainetops-usecases  | Reza Rokui | 70  | ?  | No | No  | No |
 | 5 | draft-ietf-opsawg-ipfix-gtpu  | Sriram Gopalakrishnan | 75  | No  | Yes | Yes  | Yes |
 | 5 | draft-lin-opsawg-ipfix-quic-header  | Changwang Lin | 80  | ?  | No | No |  |
 | 10 | draft-ietf-netconf-configuration-tracing  | Jean Quilbeuf / Benoit Claise | 90  | Depends   | Yes | Yes | Yes |
