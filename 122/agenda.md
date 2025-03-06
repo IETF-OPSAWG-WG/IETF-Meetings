@@ -16,7 +16,7 @@
 | 13:40 - 13:45 | Export of GTP-U Information in IP Flow Information Export (IPFIX)  | Sriram Gopalakrishnan     |
 | 13:45 - 13:55 | Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX)  | Thomas Graf     |
 | 13:55 - 14:05 | Applying COSE Signatures for YANG Data Provenance  | Diego Lopez    |
-| 14:05 - 14:15 | External Trace ID for Configuration Tracing  |  Jean Quilbeuf / Benoît Claise   |
+| 14:05 - 14:15 | draft-ietf-opsawg-collected-data-manifest  |  Jean Quilbeuf / Benoît Claise   |
 | 14:15 - 14:20 | Export of QUIC Information in IP Flow Information Export (IPFIX)  | Changwang Lin   |
 | 14:20 - 14:30 | Pydantify – Generate Pydantic Models from YANG  | Urs Baumann   |
 | 14:30 - 14:35 | Export of Path Segment Identifier Information in IPFIX | Yao Lio |
@@ -67,10 +67,10 @@
 * Presenter: Diego Lopez
 * Reading Material: [draft-lopez-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/)
 
-### 8. External Trace ID for Configuration Tracing (10 min)
+### 8. draft-ietf-opsawg-collected-data-manifest (10 min)
 
 * Presenter: Jean Quilbeuf / Benoît Claise
-* Reading Material: [draft-ietf-netconf-configuration-tracing](https://datatracker.ietf.org/doc/draft-ietf-netconf-configuration-tracing/)
+* Reading Material: [draft-ietf-opsawg-collected-data-manifest](https://datatracker.ietf.org/doc/draft-ietf-opsawg-collected-data-manifest/)
 
 ### 9. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
 
