@@ -82,7 +82,7 @@
 * Presenters: Yao Liu
 * Reading Material: [draft-liu-opsawg-ipfix-path-segment](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-path-segment/)
 
-## Session 2: OPS-Area
+## Session 2: OPSAREA
 
 ### 1. AD Handover / Introduction (5 min)
 
