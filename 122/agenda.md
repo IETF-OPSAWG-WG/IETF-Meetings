@@ -10,13 +10,13 @@
 | Slot          | Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
 | 13:00 - 13:10 | Agenda Bashing & Introduction & Document Status  | Chairs     |
-| 13:10 - 13:25 | An Information Model for Packet Discard Reporting / Information Element for Flow Discard Classification | John Evans     |
-| 13:25 - 13:35 | Publishing End-Site Prefix Lengths | Oliver Gasser |
-| 13:35 - 13:40 | IP Flow Information Export (IPFIX) Alternate-Marking Information Elements | Giuseppe Fioccola |
-| 13:40 - 13:45 | Export of GTP-U Information in IP Flow Information Export (IPFIX)  | Sriram Gopalakrishnan     |
-| 13:45 - 13:55 | Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX)  | Thomas Graf     |
-| 13:55 - 14:05 | Applying COSE Signatures for YANG Data Provenance  | Diego Lopez    |
-| 14:05 - 14:15 |  A Data Manifest for Contextualized Telemetry Data   |  Jean Quilbeuf / Benoît Claise   |
+| 13:10 - 13:20 | Publishing End-Site Prefix Lengths | Oliver Gasser |
+| 13:20 - 13:30 | Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX)  | Thomas Graf     |
+| 13:30 - 13:35 | IP Flow Information Export (IPFIX) Alternate-Marking Information Elements | Giuseppe Fioccola |
+| 13:35 - 13:40 | Export of GTP-U Information in IP Flow Information Export (IPFIX)  | Sriram Gopalakrishnan     |
+| 13:40 - 13:50 | Applying COSE Signatures for YANG Data Provenance  | Diego Lopez    |
+| 13:50 - 14:OO | A Data Manifest for Contextualized Telemetry Data   |  Jean Quilbeuf / Benoît Claise   |
+| 14:00 - 14:15 | An Information Model for Packet Discard Reporting / Information Element for Flow Discard Classification | John Evans     |
 | 14:15 - 14:20 | Export of QUIC Information in IP Flow Information Export (IPFIX)  | Changwang Lin   |
 | 14:20 - 14:25 | Export of Path Segment Identifier Information in IPFIX | Yao Lio |
 
@@ -35,17 +35,15 @@
 
 * Presenter: Joe Clarke & Benoît Claise
 
-### 2. An Information Model for Packet Discard Reporting & Information Element for Flow Discard Classification (15 min)
-
-* Presenter: John Evans
-* Reading Material:
-  * [draft-ietf-opsawg-discardmodel](https://datatracker.ietf.org/doc/draft-ietf-opsawg-discardmodel/)
-  * [draft-evans-opsawg-ipfix-discard-class-ie](https://datatracker.ietf.org/doc/draft-evans-opsawg-ipfix-discard-class-ie/)
-
-### 3. Publishing End-Site Prefix Lengths (10 min)
+### 2. Publishing End-Site Prefix Lengths (10 min)
 
 * Presenter: Oliver Gasser
 * Reading Material: [draft-ietf-opsawg-prefix-lengths](https://datatracker.ietf.org/doc/draft-ietf-opsawg-prefix-lengths/)
+
+### 3. Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX) (10 min)
+
+* Presenter: Thomas Graf
+* Reading Material: [draft-ietf-opsawg-ipfix-on-path-telemetry](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-on-path-telemetry/)
 
 ### 4. IP Flow Information Export (IPFIX) Alternate-Marking Information Elements (5 min)
 
@@ -57,20 +55,22 @@
 * Presenter: Sriram Gopalakrishnan
 * Reading Material: [draft-ietf-opsawg-ipfix-gtpu](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gtpu/)
 
-### 6. Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX) (10 min)
-
-* Presenter: Thomas Graf
-* Reading Material: [draft-ietf-opsawg-ipfix-on-path-telemetry](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-on-path-telemetry/)
-
-### 7. Applying COSE Signatures for YANG Data Provenance (10 min)
+### 6. Applying COSE Signatures for YANG Data Provenance (10 min)
 
 * Presenter: Diego Lopez
 * Reading Material: [draft-lopez-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/)
 
-### 8.  A Data Manifest for Contextualized Telemetry Data (10 min)
+### 7.  A Data Manifest for Contextualized Telemetry Data (10 min)
 
 * Presenter: Jean Quilbeuf / Benoît Claise
 * Reading Material: [draft-ietf-opsawg-collected-data-manifest](https://datatracker.ietf.org/doc/draft-ietf-opsawg-collected-data-manifest/)
+
+### 8. An Information Model for Packet Discard Reporting & Information Element for Flow Discard Classification (15 min)
+
+* Presenter: John Evans
+* Reading Material:
+  * [draft-ietf-opsawg-discardmodel](https://datatracker.ietf.org/doc/draft-ietf-opsawg-discardmodel/)
+  * [draft-evans-opsawg-ipfix-discard-class-ie](https://datatracker.ietf.org/doc/draft-evans-opsawg-ipfix-discard-class-ie/)
 
 ### 9. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
 
