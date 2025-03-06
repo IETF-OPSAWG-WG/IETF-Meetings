@@ -2,7 +2,7 @@
 
 This page records received slot requests. The agenda will be published [here](https://github.com/IETF-OPSAWG-WG/IETF-Meetings/blob/main/122/agenda.md).
 
-Overall Time budget: 2*60-35 = 85 ... where 35 min = Chairs overview 10 min, OPSarea 25 min
+Overall Time budget: 2*60-45 = 75 ... where 35 min = Chairs overview 10 min, OPSarea 35 min
 
 The cumulative requested slots can be seen below:
 
@@ -21,7 +21,7 @@ The cumulative requested slots can be seen below:
 | 10 |  draft-lopez-opsawg-yang-provenance | Diego Lopez | 100 | Yes | No | Yes | Yes |
 | 5 | OPSAREA: Introduce Med | ADs | 105 | Yes | N/A | Yes | Yes |
 | 15 | OPSAREA: NEMOPS Readout  | Wes or Dhruv | 120  | ?   | N/A | Yes | Yes |
-| 10 | Pydantify – Generate Pydantic Models from YANG  | Urs Baumann | 130  | ?  | No | No  | |
+| 10 | OPSAREA: Pydantify – Generate Pydantic Models from YANG  | Urs Baumann | 130  | ?  | No | No  | |
 | 5 | OPSAREA: Open Mic | ADs | 135 | Yes | N/A | Yes | Yes |
 
 ## Requests from the chairs
