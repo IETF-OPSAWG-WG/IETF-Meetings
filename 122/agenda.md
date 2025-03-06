@@ -25,7 +25,7 @@
 | Slot          |Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
 | 14:25 - 14:30 | AD Handover / Introduction of Med | Warren / Mahesh / Med |
-| 14:30 - 14:45 | NEMOPS Workshop Readout                               |          Wes / Dhruv |
+| 14:30 - 14:45 | NEMOPS Workshop Readout                               |          Dhruv |
 | 14:45 - 14:55 | Pydantify – Generate Pydantic Models from YANG  | Urs Baumann   |
 | 14:55 - 15:00 | Open Mic | All |
 
@@ -91,7 +91,7 @@
 ### 2. NEMOPS Workshop Readout  (15 min)
 
 * Presenter: Wes or Dhruv
-* Reading Material: [NEMOPS](https://www.iab.org/announcements/call-for-papers-nemops-workshop/)
+* Reading Material: [draft-iab-nemops-workshop-report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/)
 
 ### 3. Pydantify – Generate Pydantic Models from YANG (10 min)
 
