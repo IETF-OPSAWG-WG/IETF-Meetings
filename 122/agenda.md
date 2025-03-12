@@ -10,15 +10,15 @@
 | Slot          | Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
 | 13:00 - 13:10 | Agenda Bashing & Introduction & Document Status  | Chairs     |
-| 13:10 - 13:20 | Publishing End-Site Prefix Lengths | Oliver Gasser |
-| 13:20 - 13:30 | Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX)  | Thomas Graf     |
-| 13:30 - 13:35 | IP Flow Information Export (IPFIX) Alternate-Marking Information Elements | Giuseppe Fioccola |
-| 13:35 - 13:40 | Export of GTP-U Information in IP Flow Information Export (IPFIX)  | Sriram Gopalakrishnan     |
-| 13:40 - 13:50 | Applying COSE Signatures for YANG Data Provenance  | Diego Lopez    |
-| 13:50 - 14:OO | A Data Manifest for Contextualized Telemetry Data   |  Jean Quilbeuf / Benoît Claise   |
-| 14:00 - 14:15 | An Information Model for Packet Discard Reporting / Information Element for Flow Discard Classification | John Evans     |
-| 14:15 - 14:20 | Export of QUIC Information in IP Flow Information Export (IPFIX)  | Changwang Lin   |
-| 14:20 - 14:25 | Export of Path Segment Identifier Information in IPFIX | Yao Lio |
+| 13:10 - 13:20 | Publishing End-Site Prefix Lengths | Oliver Gasser (Remote) |
+| 13:20 - 13:30 | Export of Delay Performance Metrics in IP Flow Information eXport (IPFIX)  | Thomas Graf (On site) |
+| 13:30 - 13:35 | IP Flow Information Export (IPFIX) Alternate-Marking Information Elements | Giuseppe Fioccola (On site) |
+| 13:35 - 13:40 | Export of GTP-U Information in IP Flow Information Export (IPFIX)  | Sriram Gopalakrishnan (Remote) |
+| 13:40 - 13:50 | Applying COSE Signatures for YANG Data Provenance  | Diego Lopez (On site) |
+| 13:50 - 14:OO | A Data Manifest for Contextualized Telemetry Data   |  Jean Quilbeuf (Remote) |
+| 14:00 - 14:15 | An Information Model for Packet Discard Reporting / Information Element for Flow Discard Classification | John Evans (?) |
+| 14:15 - 14:20 | Export of QUIC Information in IP Flow Information Export (IPFIX)  | Changwang Lin (?)  |
+| 14:20 - 14:25 | Export of Path Segment Identifier Information in IPFIX | Yao Liu (On site) |
 
 ### Session: OPSAREA
 
@@ -62,7 +62,7 @@
 
 ### 7.  A Data Manifest for Contextualized Telemetry Data (10 min)
 
-* Presenter: Jean Quilbeuf / Benoît Claise
+* Presenter: Jean Quilbeuf
 * Reading Material: [draft-ietf-opsawg-collected-data-manifest](https://datatracker.ietf.org/doc/draft-ietf-opsawg-collected-data-manifest/)
 
 ### 8. An Information Model for Packet Discard Reporting & Information Element for Flow Discard Classification (15 min)
