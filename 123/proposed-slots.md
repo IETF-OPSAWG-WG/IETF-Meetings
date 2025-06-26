@@ -7,7 +7,7 @@ The cumulative requested slots can be seen below:
 
 | Requested Slot          | Topic              |  Presenter | Cumulative Slots   | In Person?   | Adopted?  | Discussed? | Granted Status|
 |:-------------:|:-----------------:|:-----:|:----------------|:--------|:--------|:--------|:--------|
-|   |  |  |   |  |  |  | - |
+| 10  | Applying COSE Signatures for YANG Data Provenance https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/ | Diego Lopez | 10 | Y | Y |  | - |
 
 
 ## Requests from the chairs
