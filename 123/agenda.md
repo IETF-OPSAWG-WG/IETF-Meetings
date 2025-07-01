@@ -12,7 +12,6 @@
 | 17:00 - 17:10 | Agenda Bashing & Introduction & Document Status  | Chairs  |
 On site) |
 
-| 14:55 - 15:00 | Open Mic | All |
 
 ## Session 1: Detailed Agenda
 
