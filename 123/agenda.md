@@ -9,8 +9,7 @@
 
 | Slot          | Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
-| 17:00 - 17:10 | Agenda Bashing & Introduction & Document Status  | Chairs  |
-On site) |
+| 17:00 - 17:10 | Agenda Bashing & Introduction & Document Status  | Chairs (On site) |
 
 
 ## Session 1: Detailed Agenda
