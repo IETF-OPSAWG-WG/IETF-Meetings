@@ -10,7 +10,7 @@ The cumulative requested slots can be seen below:
 | 10  | Applying COSE Signatures for YANG Data Provenance https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/ | Diego Lopez | 10 | Y | Y | N | - |
 | 5  | Export of SRv6 Path Segment Identifier Information in IPFIX https://datatracker.ietf.org/doc/html/draft-liu-opsawg-ipfix-path-segment | Yao Liu | 15 | Y | N | N | - |
 | 15  | Guidelines for Characterizing "OAM" https://datatracker.ietf.org/doc/draft-ietf-opsawg-oam-characterization/ | Tal Mizrahi | 30 | N | Y | Y | - |
-
+| 10  | Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX)  draft-netana-opsawg-ipfix-gpon-gem-01 | Thomas Graf | 40 | Y | N | Y | - |
 ## Requests from the chairs
 
 * TBC
