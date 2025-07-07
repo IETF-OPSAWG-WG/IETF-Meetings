@@ -11,7 +11,7 @@ The cumulative requested slots can be seen below:
 | 5  | Export of SRv6 Path Segment Identifier Information in IPFIX https://datatracker.ietf.org/doc/html/draft-liu-opsawg-ipfix-path-segment | Yao Liu | 15 | Y | N | N | - |
 | 15  | Guidelines for Characterizing "OAM" https://datatracker.ietf.org/doc/draft-ietf-opsawg-oam-characterization/ | Tal Mizrahi | 30 | N | Y | Y | - |
 | 10  | Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX)  [draft-netana-opsawg-ipfix-gpon-gem-01](https://datatracker.ietf.org/doc/draft-netana-opsawg-ipfix-gpon-gem/) | Thomas Graf | 40 | Y | N | Y | - |
-| 10  | Information and Data Models for Packet Discard Reporting [https://datatracker.ietf.org/doc/draft-ietf-opsawg-discardmodel/] | John Evans | 10 | Y | Y | N | - |
+| 10  | Information and Data Models for Packet Discard Reporting [https://datatracker.ietf.org/doc/draft-ietf-opsawg-discardmodel/] | John Evans | 50 | Y | Y | N | - |
 ## Requests from the chairs
 
 * TBC
