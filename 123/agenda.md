@@ -15,7 +15,7 @@
 | 17:35 - 17:45 | Information and Data Models for Packet Discard Reporting | John Evans (On site) |
 | 17:45 - 17:50 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests | Victor Lopez (On site) |
 | 17:50 - 17:55 | IPFIX Alternate Marking | Giuseppe Fioccola (On site) |
-| 17:55 - 18:00 | Export of SRv6 Path Segment Identifier Information in IPFIX | Yao Lio (On site) |
+| 17:55 - 18:00 | Export of SRv6 Path Segment Identifier Information in IPFIX | Yao Liu (On site) |
 | 18:00 - 18:10 | Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
 
 ## Session 1: Detailed Agenda
