@@ -17,6 +17,7 @@
 | 17:50 - 17:55 | IPFIX Alternate Marking | Giuseppe Fioccola (On site) |
 | 17:55 - 18:00 | Export of SRv6 Path Segment Identifier Information in IPFIX | Yao Liu (On site) |
 | 18:00 - 18:10 | Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
+| 18:10 - 18:20 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Med and/or Mahesh (On site) | 
 
 ## Session 1: Detailed Agenda
 
@@ -58,3 +59,9 @@
 
 * Presenter: Thomas Graf
 * Reading Material: [draft-netana-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/html/draft-netana-opsawg-ipfix-gpon-gem/)
+
+### 9. YANG deVELpment PrOCEss & maintenance (VELOCE) (10 min)
+
+* Presenter: Med and/or Mahesh
+* Reading Material: [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/html/draft-boucadair-veloce-yang/)
+
