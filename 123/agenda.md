@@ -51,7 +51,7 @@
 
 ### 7. Export of SRv6 Path Segment Identifier Information in IPFIX (5 min)
 
-* Presenter: Yao Lio
+* Presenter: Yao Liu
 * Reading Material: [draft-liu-opsawg-ipfix-path-segment](https://datatracker.ietf.org/doc/html/draft-liu-opsawg-ipfix-path-segment)
 
 ### 8. Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) (10 min)
