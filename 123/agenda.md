@@ -1,6 +1,6 @@
 # Operations and Management Area Working Group (OPSAWG) - IETF 123
 
-* When: Thu, July 24, 2025
+* When: Thu, July 24, 2025 17:00 to 19:00
 * Co-Chairs: Joe Clarke & Benoît Claise
 
 ## Compact Agenda
@@ -18,6 +18,7 @@
 | 17:55 - 18:00 | Export of SRv6 Path Segment Identifier Information in IPFIX | Yao Liu (On site) |
 | 18:00 - 18:10 | Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
 | 18:10 - 18:20 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Med and/or Mahesh (On site) | 
+| 18:20 - 19:00 | Open Discussion | All | 
 
 ## Session 1: Detailed Agenda
 
