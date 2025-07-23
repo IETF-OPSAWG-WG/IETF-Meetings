@@ -61,7 +61,11 @@
 * Presenter: Thomas Graf
 * Reading Material: [draft-netana-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/html/draft-netana-opsawg-ipfix-gpon-gem/)
 
-### 9. YANG deVELpment PrOCEss & maintenance (VELOCE) (10 min)
+### 9. ACaaS on orbit : Outernet Council Interconnect API (10 min)
+
+* Presenting: Erik Kline
+
+### 10. YANG deVELpment PrOCEss & maintenance (VELOCE) (10 min)
 
 * Presenter: Med and/or Mahesh
 * Reading Material: [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/html/draft-boucadair-veloce-yang/)
