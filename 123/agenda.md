@@ -17,7 +17,7 @@
 | 17:50 - 17:55 | IPFIX Alternate Marking | Giuseppe Fioccola (On site) |
 | 17:55 - 18:00 | Export of SRv6 Path Segment Identifier Information in IPFIX | Yao Liu (On site) |
 | 18:00 - 18:10 | Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
-| 18:10 - 18:20 | ACaaS on orbit : Outernet Council Interconnect API (On Site) |
+| 18:10 - 18:20 | ACaaS on orbit : Outernet Council Interconnect API | Erik Kline (On Site) |
 | 18:20 - 18:30 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Med and/or Mahesh (On site) | 
 | 18:30 - 19:00 | Open Discussion | All | 
 
