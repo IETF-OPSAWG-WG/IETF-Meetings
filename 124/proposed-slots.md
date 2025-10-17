@@ -11,6 +11,7 @@ The cumulative requested slots can be seen below:
 | 20  | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh/Med | 40 | Y | N | Y | - |
 | 10  | Export of Encapsulation Layer Information in IPFIX |Yao Liu | 50 | Y | Y | Y | - |
 | 10  | IPFIX Protocol over QUIC | Yisong Liu | 60 | N | N | Y | - |
+| 5   | Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin | 65 | N | N | Y | - |
 ## Requests from the chairs
 
 * TBC
