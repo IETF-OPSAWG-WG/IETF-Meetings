@@ -12,6 +12,9 @@ The cumulative requested slots can be seen below:
 | 10  | Export of Encapsulation Layer Information in IPFIX |Yao Liu | 50 | Y | Y | Y | - |
 | 10  | IPFIX Protocol over QUIC | Yisong Liu | 60 | N | N | Y | - |
 | 5   | Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin | 65 | N | N | Y | - |
+| 10  | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao | 75 | N | N | N | - |
+
+
 ## Requests from the chairs
 
 * TBC
