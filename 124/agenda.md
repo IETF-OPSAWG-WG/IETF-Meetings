@@ -67,3 +67,7 @@
 * Presenter: Med and Mahesh
 * Reading Material: [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/html/draft-boucadair-veloce-yang/)
 
+### 10. Open Discussion 
+
+* Presenter: All
+
