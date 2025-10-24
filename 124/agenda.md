@@ -52,20 +52,20 @@
 ### 6. Export of Encapsulation Layer Information in IPFIX (10 min)
 
 * Presenter: Yao Lin
-* Reading Material: [Export of Encapsulation Layer Information in IPFIX](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-muti-layer/)
+* Reading Material: [draft-liu-opsawg-ipfix-muti-layer](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-muti-layer/)
 
 ### 7. IPFIX Protocol over QUIC (10 min)
 
 * Presenter: Yisong Liu
-* Reading Material: [IPFIX Protocol over QUIC](https://datatracker.ietf.org/doc/draft-llg-opsawg-ipfix-over-quic/)
+* Reading Material: [draft-llg-opsawg-ipfix-over-quic](https://datatracker.ietf.org/doc/draft-llg-opsawg-ipfix-over-quic/)
 
 ### 8. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Changwang Lin
-* Reading Material: [Export of QUIC Information in IP Flow Information Export (IPFIX)](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-quic-header/)
+* Reading Material: [draft-lin-opsawg-ipfix-quic-header](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-quic-header/)
 
 ### 9. Export of Source Address Validation (SAV) Information in IPFIX (10 min)
 
 * Presenter: Qian Cao
-* Reading Material: [Export of Source Address Validation (SAV) Information in IPFIX](https://datatracker.ietf.org/doc/draft-opsawg-ipfix-sav/)
+* Reading Material: [draft-opsawg-ipfix-sav](https://datatracker.ietf.org/doc/draft-opsawg-ipfix-sav/)
 
