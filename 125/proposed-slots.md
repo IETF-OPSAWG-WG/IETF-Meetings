@@ -8,17 +8,13 @@ The cumulative requested slots can be seen below:
 | 10  | draft-ietf-opsawg-yang-provenance | Ana Mendez Perez | 20 | Y | Y | Y  | - |
 | 20  | draft-ietf-opsawg-rfc5706bis | Benoit Claise | 40 | Y | N | Y  | - |
 | 20  | draft-gao-opsawg-ipfix-term-and-app | Xing Gao | 45 | Y | N | N  | - |
-| 20  | draft-parsons-opsawg-security-operations | Michael P | 60 | N | N | Y  | - |
+| 20  | draft-parsons-opsawg-security-operations | Michael P | 60 | N | N | N | - |
 | 20  | draft-song-opsawg-ipfix-ecn | Xueyan Song | 70 | Y | N | N  | - |
 | 20  | draft-cao-opsawg-ipfix-sav | Qian Cao | 80 | Y | N | Y  | - |
 | 20  | draft-liu-opsawg-ipfix-muti-layer | Yao Liu | 90 | Y | N | Y  | - |
 | 20  | draft-liu-opsawg-ipfix-bgp-vpn | Yao Liu | 95 | Y | N | N  | - |
 | 20  | draft-liu-opsawg-ipfix-igp-algo | Yao Liu | 100 | Y | N | N  | - |
-| TBC  | draft-mahesh-opsawg-veloce-yang/draft-boucadair-veloce-yang | Mahesh | TBC | Y | N | Y  | - |
-
-
-
-
+| TBC | draft-mahesh-opsawg-veloce-yang/draft-boucadair-veloce-yang | Mahesh | TBC | Y | N | Y  | - |
 
 ## Requests from the chairs
 
