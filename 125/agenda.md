@@ -52,7 +52,7 @@
 ### 5. Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Xing Gao
-* Reading Material: [draft-gao-opsawg-ipfix-term-and-app](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-path-segment/)
+* Reading Material: [draft-gao-opsawg-ipfix-term-and-app](https://datatracker.ietf.org/doc/draft-gao-opsawg-ipfix-term-and-app/)
 
 ### 6. Export of L4S ECN in IP Flow Information Export (IPFIX) (10 min)
 
