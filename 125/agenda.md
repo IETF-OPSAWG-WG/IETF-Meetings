@@ -11,8 +11,8 @@
 | Slot          | Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
 | 14:00 - 14:10 | Introduction & Document Status & Agenda Bashing  | Chairs (On site) |
-| 14:20 - 17:30 | Applying COSE Signatures for YANG Data Provenance | Ana Mendez Perez (On site) |
-| 14:30 - 17:35 | Export of Path Segment Identifier Information in IPFIX | Benoit Claise (On site）|
+| 14:10 - 14:20 | Applying COSE Signatures for YANG Data Provenance | Ana Mendez Perez (On site) |
+| 14:20 - 14:40 | Guidelines for Considering Operations and Management in IETF Specifications | Benoit Claise (On site）|
 | 14:35 - 17:45 | Export of Encapsulation Layer Information in IPFIX | Yao Liu |
 | 14:45 - 17:55 | IPFIX Protocol over QUIC | Yisong Liu (Remote) |
 | 14:55 - 18:00 | Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (Remote) |
