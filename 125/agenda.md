@@ -20,8 +20,8 @@
 | 14:00 - 18:10 | Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
 | 14:00 - 18:10 | Export of IGP Flexible Algorithm Information in IPFIX | Yao Liu (On site) |
 | 14:00 - 18:10 | Security Operations Fundamentals and Guidance | Michael P (Remotely) |
-
-| 144:30 - 19:00 | Open Discussion | All | 
+| 14:00 - 18:10 |YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh (On site) |
+| 14:30 - 19:00 | Open Discussion | All | 
 
 
 
