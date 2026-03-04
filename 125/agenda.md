@@ -36,7 +36,7 @@
 
 ### 2. Applying COSE Signatures for YANG Data Provenance (10 min)
 
-* Presenter: Ana Mendez Perez
+* Presenter: Ana Mendez
 * Reading Material: [draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
 
 ### 3. Guidelines for Considering Operations and Management in IETF Specifications (20 min)
