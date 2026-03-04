@@ -11,13 +11,18 @@
 | Slot          | Topic                                    | Presenters |
 |:-------------:|:---------------------------------------:|:-----------|
 | 14:00 - 14:10 | Introduction & Document Status & Agenda Bashing  | Chairs (On site) |
-| 14:20 - 17:30 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests | Qin Wu (On site) |
-| 14:30 - 17:35 | Export of Path Segment Identifier Information in IPFIX | Yao Liu |
+| 14:20 - 17:30 | Applying COSE Signatures for YANG Data Provenance | Ana Mendez Perez (On site) |
+| 14:30 - 17:35 | Export of Path Segment Identifier Information in IPFIX | Benoit Claise (On site）|
 | 14:35 - 17:45 | Export of Encapsulation Layer Information in IPFIX | Yao Liu |
 | 14:45 - 17:55 | IPFIX Protocol over QUIC | Yisong Liu (Remote) |
 | 14:55 - 18:00 | Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (Remote) |
 | 14:00 - 18:10 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (Remote) |
 | 144:30 - 19:00 | Open Discussion | All | 
+
+
+
+
+
 
 ## Session 1: Detailed Agenda
 
@@ -27,13 +32,13 @@
 
 ### 2. Applying COSE Signatures for YANG Data Provenance (10 min)
 
-* Presenter: Diego Lopez
+* Presenter: Ana Mendez Perez
 * Reading Material: [draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
 
-### 3. A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests (10 min)
+### 3. Guidelines for Considering Operations and Management in IETF Specifications (20 min)
 
-* Presenter: Qin Wu
-* Reading Material: [draft-ietf-opsawg-scheduling-oam-tests](https://datatracker.ietf.org/doc/draft-ietf-opsawg-scheduling-oam-tests/)
+* Presenter: Benoit Claise 
+* Reading Material: [draft-ietf-opsawg-rfc5706bis](https://datatracker.ietf.org/doc/draft-ietf-opsawg-rfc5706bis/)
 
 ### 4. Export of Path Segment Identifier Information in IPFIX (5 min)
 
