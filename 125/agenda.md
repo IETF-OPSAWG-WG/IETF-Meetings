@@ -62,7 +62,7 @@
 ### 7. Export of Encapsulation Layer Information in IPFIX (10 min)
 
 * Presenter: Yao Liu
-* Reading Material: [draft-liu-opsawg-ipfix-muti-layer] (https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-muti-layer)
+* Reading Material: [draft-liu-opsawg-ipfix-muti-layer](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-muti-layer)
 
 ### 8. Export of BGP VPN Information in IPFIX (5 min)
 
