@@ -15,7 +15,7 @@
 | 14:20 - 14:40 | Guidelines for Considering Operations and Management in IETF Specifications | Benoit Claise (On site）|
 | 14:45 - 17:55 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
 | 14:40 - 14:45 | Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) | Xing Gao (On site) |
-| 14:55 - 18:00 | Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (Remote) |
+| 14:55 - 18:00 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
 | 14:00 - 18:10 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (Remote) |
 | 144:30 - 19:00 | Open Discussion | All | 
 
@@ -52,10 +52,10 @@
 
 
 
-### 6. Export of Source Address Validation (SAV) Information in IPFIX (10 min)
+### 6. Export of L4S ECN in IP Flow Information Export (IPFIX) (10 min)
 
-* Presenter: Yisong Liu
-* Reading Material: [draft-llg-opsawg-ipfix-over-quic](https://datatracker.ietf.org/doc/draft-llg-opsawg-ipfix-over-quic/)
+* Presenter: Xueyan Song
+* Reading Material: [draft-llg-opsawg-ipfix-over-quic]((https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
 
 ### 7. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
 
