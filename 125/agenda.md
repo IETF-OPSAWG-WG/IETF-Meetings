@@ -17,6 +17,11 @@
 | 14:40 - 14:45 | Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) | Xing Gao (On site) |
 | 14:55 - 18:00 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
 | 14:00 - 18:10 | Export of Encapsulation Layer Information in IPFIX | Yao Liu (On site) |
+| 14:00 - 18:10 | Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
+| 14:00 - 18:10 | Export of IGP Flexible Algorithm Information in IPFIX | Yao Liu (On site) |
+| 14:00 - 18:10 | Security Operations Fundamentals and Guidance | Michael P (Remotely) |
+
+
 | 144:30 - 19:00 | Open Discussion | All | 
 
 
@@ -62,17 +67,27 @@
 * Presenter: Yao Liu
 * Reading Material: [draft-liu-opsawg-ipfix-muti-layer] (https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-muti-layer)
 
-### 8. Export of Source Address Validation (SAV) Information in IPFIX (10 min)
+### 8. Export of BGP VPN Information in IPFIX (5 min)
+
+* Presenter: Yao Liu
+* Reading Material: [draft-liu-opsawg-ipfix-bgp-vpn](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-vpn/)
+
+### 9. Export of IGP Flexible Algorithm Information in IPFIX (5 min)
+
+* Presenter: Yao Liu
+* Reading Material: [draft-liu-opsawg-ipfix-igp-algo](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-igp-algo/)
+
+### 10. Security Operations Fundamentals and Guidance (15 min)
 
 * Presenter: Qian Cao
-* Reading Material: [draft-opsawg-ipfix-sav](https://datatracker.ietf.org/doc/draft-opsawg-ipfix-sav/)
+* Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
 
-### 9. YANG deVELpment PrOCEss & maintenance (VELOCE) (20 min)
+### 11. YANG deVELpment PrOCEss & maintenance (VELOCE) (20 min)
 
-* Presenter: Med and Mahesh
+* Presenter: Mahesh
 * Reading Material: [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/html/draft-boucadair-veloce-yang/)
 
-### 10. Open Discussion 
+### 12. Open Discussion 
 
 * Presenter: All
 
