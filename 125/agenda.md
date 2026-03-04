@@ -55,7 +55,7 @@
 ### 6. Export of L4S ECN in IP Flow Information Export (IPFIX) (10 min)
 
 * Presenter: Xueyan Song
-* Reading Material: [draft-llg-opsawg-ipfix-over-quic]((https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
+* Reading Material: [draft-song-opsawg-ipfix-ecn](https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
 
 ### 7. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
 
