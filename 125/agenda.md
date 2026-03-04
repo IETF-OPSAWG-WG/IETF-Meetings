@@ -13,8 +13,8 @@
 | 14:00 - 14:10 | Introduction & Document Status & Agenda Bashing  | Chairs (On site) |
 | 14:10 - 14:20 | Applying COSE Signatures for YANG Data Provenance | Ana Mendez Perez (On site) |
 | 14:20 - 14:40 | Guidelines for Considering Operations and Management in IETF Specifications | Benoit Claise (On site）|
-| 14:45 - 17:55 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
-| 14:40 - 14:45 | Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) | Xing Gao (On site) |
+| 14:40 - 14:50 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
+| 14:50 - 14:55 | Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) | Xing Gao (On site) |
 | 14:55 - 18:00 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
 | 14:00 - 18:10 | Export of Encapsulation Layer Information in IPFIX | Yao Liu (On site) |
 | 14:00 - 18:10 | Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
