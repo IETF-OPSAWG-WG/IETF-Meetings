@@ -47,7 +47,7 @@
 ### 4. Export of Source Address Validation (SAV) Information in IPFIX (10 min)
 
 * Presenter: Qian Cao
-* Reading Material: [draft-cao-opsawg-ipfix-sav/](https://datatracker.ietf..org/doc/draft-cao-opsawg-ipfix-sav/)
+* Reading Material: [draft-cao-opsawg-ipfix-sav/](https://datatracker.ietf.org/doc/draft-cao-opsawg-ipfix-sav/)
 
 ### 5. Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) (5 min)
 
