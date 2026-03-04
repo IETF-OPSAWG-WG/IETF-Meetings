@@ -16,7 +16,7 @@
 | 14:45 - 17:55 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
 | 14:40 - 14:45 | Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) | Xing Gao (On site) |
 | 14:55 - 18:00 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
-| 14:00 - 18:10 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (Remote) |
+| 14:00 - 18:10 | Export of Encapsulation Layer Information in IPFIX | Yao Liu (On site) |
 | 144:30 - 19:00 | Open Discussion | All | 
 
 
@@ -57,10 +57,10 @@
 * Presenter: Xueyan Song
 * Reading Material: [draft-song-opsawg-ipfix-ecn](https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
 
-### 7. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
+### 7. Export of Encapsulation Layer Information in IPFIX (10 min)
 
-* Presenter: Changwang Lin
-* Reading Material: [draft-lin-opsawg-ipfix-quic-header](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-quic-header/)
+* Presenter: Yao Liu
+* Reading Material: [draft-liu-opsawg-ipfix-muti-layer] (https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-muti-layer)
 
 ### 8. Export of Source Address Validation (SAV) Information in IPFIX (10 min)
 
