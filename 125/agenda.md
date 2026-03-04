@@ -54,8 +54,6 @@
 * Presenter: Xing Gao
 * Reading Material: [draft-gao-opsawg-ipfix-term-and-app](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-path-segment/)
 
-
-
 ### 6. Export of L4S ECN in IP Flow Information Export (IPFIX) (10 min)
 
 * Presenter: Xueyan Song
