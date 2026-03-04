@@ -15,13 +15,13 @@
 | 14:20 - 14:40 | Guidelines for Considering Operations and Management in IETF Specifications | Benoit Claise (On site）|
 | 14:40 - 14:50 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
 | 14:50 - 14:55 | Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) | Xing Gao (On site) |
-| 14:55 - 18:00 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
-| 14:00 - 18:10 | Export of Encapsulation Layer Information in IPFIX | Yao Liu (On site) |
-| 14:00 - 18:10 | Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
-| 14:00 - 18:10 | Export of IGP Flexible Algorithm Information in IPFIX | Yao Liu (On site) |
-| 14:00 - 18:10 | Security Operations Fundamentals and Guidance | Michael P (Remotely) |
-| 14:00 - 18:10 |YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh (On site) |
-| 14:30 - 19:00 | Open Discussion | All | 
+| 14:55 - 15:05 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
+| 15:05 - 15:15 | Export of Encapsulation Layer Information in IPFIX | Yao Liu (On site) |
+| 15:15 - 15:20 | Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
+| 15:20 - 15:25 | Export of IGP Flexible Algorithm Information in IPFIX | Yao Liu (On site) |
+| 15:25 - 15:40 | Security Operations Fundamentals and Guidance | Michael P (Remotely) |
+| 15:40 - 16:00 |YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh (On site) |
+| - | Open Discussion | All | 
 
 
 
