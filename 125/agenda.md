@@ -21,7 +21,7 @@
 | 15:20 - 15:25 | Export of IGP Flexible Algorithm Information in IPFIX | Yao Liu (On site) |
 | 15:25 - 15:40 | Security Operations Fundamentals and Guidance | Michael P (Remotely) |
 | 15:40 - 16:00 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh Jethanandani (On site) |
-| 16:00 | End |   | 
+
 
 
 
@@ -84,5 +84,4 @@
 * Presenter: Mahesh
 * Reading Material: [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/html/draft-boucadair-veloce-yang/)
 
-- End -
 
