@@ -76,7 +76,7 @@
 
 ### 10. Security Operations Fundamentals and Guidance (15 min)
 
-* Presenter: Qian Cao
+* Presenter: Michael P
 * Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
 
 ### 11. YANG deVELpment PrOCEss & maintenance (VELOCE) (20 min)
