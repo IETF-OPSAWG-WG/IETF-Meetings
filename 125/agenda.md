@@ -28,7 +28,7 @@
 
 
 
-## Session 1: Detailed Agenda
+## Detailed Agenda
 
 ### 1. Introduction & Document Status & Agenda Bashing (10 min)
 
