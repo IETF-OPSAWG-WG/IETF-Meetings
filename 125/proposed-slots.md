@@ -17,7 +17,7 @@ The cumulative requested slots can be seen below:
 | 5   | draft-lin-opsawg-ipfix-sr-policy | Changwang Lin | 105 | Y | N | N | - |
 | 5   | draft-ll-opsawg-ipfix-bier | Yisong Li | 110 | Y | N | N | - |
 | 5   | draft-liu-opsawg-ipfix-bgp-pov | Yisong Li | 115 | Y | N | N | - |    
-| 10  | draft-liu-opsawg-alt-mark-per-packet | Kefei Liu | 125 | N 
+| 10  | draft-liu-opsawg-alt-mark-per-packet | Kefei Liu | 125 | N | N | - |
 | TBC | draft-mahesh-opsawg-veloce-yang/draft-boucadair-veloce-yang | Mahesh | TBC | Y | N | Y  | - |
 
 ## Requests from the chairs
