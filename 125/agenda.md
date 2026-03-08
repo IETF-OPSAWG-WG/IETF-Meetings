@@ -82,6 +82,6 @@
 ### 11. YANG deVELpment PrOCEss & maintenance (VELOCE) (20 min)
 
 * Presenter: Mahesh
-* Reading Material: [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/html/draft-boucadair-veloce-yang/)
+* Reading Material: [draft-mahesh-opsawg-veloce-yang](https://datatracker.ietf.org/doc/draft-mahesh-opsawg-veloce-yang/)
 
 
