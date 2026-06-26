@@ -12,6 +12,7 @@ The cumulative requested slots can be seen below:
 | 5  | draft-liu-opsawg-ipfix-bgp-vpn  |  Yao Liu | 45 | Y | N | N | Y |
 | 15  | draft-claise-opsawg-ipfix-ordered-ie  | Benoit Claise | 60 | Y | N | N | Y |
 | 10  |  draft-mahesh-opsawg-veloce-yang | Mahesh  | 70 | Y | N | Y  | Y |
+| 30  | Presentation of ADs  | MMahesh and Med  | 100 | Y | N/A | N | Y |
 
 ## Requests from the chairs
 
