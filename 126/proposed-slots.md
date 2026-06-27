@@ -11,7 +11,7 @@ The cumulative requested slots can be seen below:
 | 5  | draft-lin-opsawg-ipfix-rocev2   | Haiyang Zhang | 40 | N | N | N | Y |
 | 5  | draft-liu-opsawg-ipfix-bgp-vpn  |  Yao Liu | 45 | Y | N | N | Y |
 | 15  | draft-claise-opsawg-ipfix-ordered-ie  | Benoit Claise | 60 | Y | N | N | Y |
-| 10  |  draft-mahesh-opsawg-veloce-yang | Mahesh  | 70 | Y | N | Y  | Y |
+| 10  |  draft-mahesh-opsawg-veloce-yang | Mahesh Jethanandani | 70 | Y | N | Y  | Y |
 | 10  | draft-song-opsawg-ipfix-ecn  | Xueyan Song | 80 | Y | N | Y | Y |
 | 30  | Presentation of ADs  | Mahesh Jethanandani and Mohamed Boucadair | 110 | Y | N/A | N | Y |
 
