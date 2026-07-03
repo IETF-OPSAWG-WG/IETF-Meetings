@@ -22,7 +22,7 @@
 | 15:05 - 15:10| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:10 - 15:15| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:15 - 15:30| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
-| 15:30 - 16:00 | TBD | Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:30 - 16:00 | TBD. | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 
 
 ## Detailed Agenda
@@ -61,25 +61,34 @@
 * Presenter: Yisong Liu 
 * Reading Material: [draft-liu-opsawg-ipfix-bgp-pov](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-pov/)
 
-### 5. Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) (5 min)
-
-* Presenter: Xing Gao
-* Reading Material: [draft-gao-opsawg-ipfix-term-and-app](https://datatracker.ietf.org/doc/draft-gao-opsawg-ipfix-term-and-app/)
-
-### 7. Export of Encapsulation Layer Information in IPFIX (10 min)
-
-* Presenter: Yao Liu
-* Reading Material: [draft-liu-opsawg-ipfix-muti-layer](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-muti-layer/)
-
 ### 8. Export of BGP VPN Information in IPFIX (5 min)
 
 * Presenter: Yao Liu
 * Reading Material: [draft-liu-opsawg-ipfix-bgp-vpn](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-vpn/)
 
-### 9. Export of IGP Flexible Algorithm Information in IPFIX (5 min)
+### 9. Export of RoCEv2 Base Transport Header (BTH) Information Using IP Flow Information Export (IPFIX) (5 min)
 
-* Presenter: Yao Liu
-* Reading Material: [draft-liu-opsawg-ipfix-igp-algo](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-igp-algo/)
+* Presenter: Haiyang Zhang
+* Reading Material: [draft-lin-opsawg-ipfix-rocev2](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-rocev2/)
 
+### 10. Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Changwang Lin
+* Reading Material: [draft-lin-opsawg-ipfix-sr-policy](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-sr-policy/)
+
+### 11. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Changwang Lin
+* Reading Material: [draft-lin-opsawg-ipfix-quic-header](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-quic-header/)
+
+### 12. Ordered Information Element Export in IP Flow Information Export (IPFIX) (10 min)
+
+* Presenter: Benoit Claise
+* Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
+
+### 13. TBD. (30 min)
+
+* Presenter: Mahesh Jethanandani & Mohamed Boucadair
+* Reading Material: TBD.
 
 
