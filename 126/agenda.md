@@ -31,30 +31,40 @@
 
 * Presenter: Joe Clarke & Benoît Claise
 
-### 2. Applying COSE Signatures for YANG Data Provenance (10 min)
+### 2. Security Operations Fundamentals and Guidance (15 min)
 
-* Presenter: Ana Mendez
-* Reading Material: [draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
+* Presenter: Michael P
+* Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
 
-### 3. Guidelines for Considering Operations and Management in IETF Specifications (20 min)
+### 3. YANG deVELpment PrOCEss & maintenance (VELOCE) (10 min)
 
-* Presenter: Benoit Claise 
-* Reading Material: [draft-ietf-opsawg-rfc5706bis](https://datatracker.ietf.org/doc/draft-ietf-opsawg-rfc5706bis/)
-  
-### 4. Export of Source Address Validation (SAV) Information in IPFIX (10 min)
+* Presenter: Mahesh Jethanandani
+* Reading Material: [draft-mahesh-opsawg-veloce-yang](https://datatracker.ietf.org/doc/draft-mahesh-opsawg-veloce-yang/)
+
+### 4. Export of L4S ECN in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Xueyan Song
+* Reading Material: [draft-song-opsawg-ipfix-ecn](https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
+
+### 5. Export of Source Address Validation (SAV) Information in IPFIX (5 min)
 
 * Presenter: Qian Cao
 * Reading Material: [draft-cao-opsawg-ipfix-sav](https://datatracker.ietf.org/doc/draft-cao-opsawg-ipfix-sav/)
+
+### 6. Export of BIER Information in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Yisong Liu
+* Reading Material: [draft-ll-opsawg-ipfix-bier](https://datatracker.ietf.org/doc/draft-ll-opsawg-ipfix-bier/)
+
+### 7. Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Yisong Liu 
+* Reading Material: [draft-liu-opsawg-ipfix-bgp-pov](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-pov/)
 
 ### 5. Requirements and Information Elements for Application Layer Information Export in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Xing Gao
 * Reading Material: [draft-gao-opsawg-ipfix-term-and-app](https://datatracker.ietf.org/doc/draft-gao-opsawg-ipfix-term-and-app/)
-
-### 6. Export of L4S ECN in IP Flow Information Export (IPFIX) (10 min)
-
-* Presenter: Xueyan Song
-* Reading Material: [draft-song-opsawg-ipfix-ecn](https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
 
 ### 7. Export of Encapsulation Layer Information in IPFIX (10 min)
 
@@ -71,13 +81,5 @@
 * Presenter: Yao Liu
 * Reading Material: [draft-liu-opsawg-ipfix-igp-algo](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-igp-algo/)
 
-### 10. Security Operations Fundamentals and Guidance (15 min)
 
-* Presenter: Michael P
-* Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
-
-### 11. YANG deVELpment PrOCEss & maintenance (VELOCE) (20 min)
-
-* Presenter: Mahesh
-* Reading Material: [draft-mahesh-opsawg-veloce-yang](https://datatracker.ietf.org/doc/draft-mahesh-opsawg-veloce-yang/)
 
