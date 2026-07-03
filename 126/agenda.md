@@ -22,7 +22,7 @@
 | 15:05 - 15:10| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:10 - 15:15| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:15 - 15:30| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
-| 15:30 - 14:00 | TBD | Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:30 - 16:00 | TBD | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 
 
 ## Detailed Agenda
