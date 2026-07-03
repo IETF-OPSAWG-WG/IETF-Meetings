@@ -1,6 +1,6 @@
-# Operations and Management Area Working Group (OPSAWG) - IETF 125
+# Operations and Management Area Working Group (OPSAWG) - IETF 126
 
-* When: Wed, March 18th 2026 14:00 to 16:00
+* When: Monday, July 20th 2026 14:00 to 16:00
 * Co-Chairs: Joe Clarke & Benoît Claise
 * Secretary: Chongfeng Xie
 
