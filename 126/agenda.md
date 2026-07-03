@@ -8,8 +8,8 @@
 
 ### Session: OPSAWG
 
-| Slot          | Topic                                    | Presenters |
-|:-------------:|:---------------------------------------:|:-----------|
+|     Slot      | Topic                                    | Presenters |
+|:----------------:|:---------------------------------------:|:-----------|
 | 14:00 - 14:10 | Introduction & Document Status & Agenda Bashing  | Chairs (On site) |
 | 14:10 - 14:25 | Security Operations Fundamentals and Guidance | Michael P (On site) |
 | 14:25 - 14:35 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh Jethanandani (On site) |
@@ -22,7 +22,7 @@
 | 15:05 - 15:10| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:10 - 15:15| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:15 - 15:30| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
-| 15:30 - 16:00 | TBD. | Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:30 - 16:00 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 
 
 ## Detailed Agenda
@@ -86,9 +86,9 @@
 * Presenter: Benoit Claise
 * Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
 
-### 13. TBD. (30 min)
+### 13. TBD  (30 min)
 
 * Presenter: Mahesh Jethanandani & Mohamed Boucadair
-* Reading Material: TBD.
+* Reading Material: TBD
 
 
