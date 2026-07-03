@@ -33,7 +33,7 @@
 | 14:35 - 14:40 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
 | 14:40 - 14:45| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
 | 14:45 - 14:50| Export of BIER Information in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
-| 14:50 - 14:55| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
+| 14:50 - 14:55| Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
 | 14:55 - 15:00| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
 | 15:00 - 15:05| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
 | 15:05 - 15:10| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
