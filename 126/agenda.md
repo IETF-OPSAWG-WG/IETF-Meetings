@@ -22,7 +22,8 @@
 | 15:05 - 15:10| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:10 - 15:15| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:15 - 15:30| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
-| 15:30 - 16:00 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:30 - 15:35| Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
+| 15:35 - 16:05 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 
 
 ## Detailed Agenda
@@ -86,7 +87,12 @@
 * Presenter: Benoit Claise
 * Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
 
-### 13. TBD  (30 min)
+### 13. Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Thomas Graf
+* Reading Material: [draft-ietf-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gpon-gem/)
+
+### 14. TBD  (30 min)
 
 * Presenter: Mahesh Jethanandani & Mohamed Boucadair
 * Reading Material: TBD
