@@ -16,7 +16,8 @@ The cumulative requested slots can be seen below:
 | 5  | draft-lin-opsawg-ipfix-sr-policy  | Changwang Lin | 85 | Y | N | Y | Y |
 | 5  | draft-lin-opsawg-ipfix-quic-header  | Changwang Lin | 90 | Y | N | Y | Y |
 | 5  | draft-cao-opsawg-ipfix-sav  | Qian Cao | 95 | Y | N | Y | Y |
-| 30 | Presentation of OPS ADs  | Mahesh Jethanandani and Mohamed Boucadair | 125 | Y | N/A | N | Y |
+| 5  | draft-ietf-opsawg-ipfix-gpon-gem-03  | Thomas Graf | 100 | Y | Y | Y | Y |
+| 30 | Presentation of OPS ADs  | Mahesh Jethanandani and Mohamed Boucadair | 130 | Y | N/A | N | Y |
 
 ## Requests from the chairs
 
