@@ -24,7 +24,7 @@
 | 15:15 - 15:30| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
 | 15:30 - 15:45| QUIC Transport for Network Telemetry | Benoit Claise (On site) |
 | 15:45 - 15:50| Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
-| 15:50 - 16:05 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:50 - 16:20 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 
 
 ## Detailed Agenda
