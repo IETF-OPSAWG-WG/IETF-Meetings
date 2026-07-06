@@ -19,10 +19,10 @@
 | 14:55 - 15:00| Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
 | 15:00 - 15:05| Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
 | 15:05 - 15:10| Export of RoCEv2 Base Transport Header (BTH) Information Using IP Flow Information Export (IPFIX) | Haiyang Zhang ( Remotely ) |
-| 15:05 - 15:10| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
-| 15:10 - 15:15| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
-| 15:15 - 15:30| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
-| 15:30 - 15:45| QUIC Transport for Network Telemetry | Benoit Claise (On site) |
+| 15:10 - 15:15| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
+| 15:15 - 15:20| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
+| 15:20 - 15:35| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
+| 15:35 - 15:45| QUIC Transport for Network Telemetry | Benoit Claise (On site) |
 | 15:45 - 15:50| Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
 | 15:50 - 16:20 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 
