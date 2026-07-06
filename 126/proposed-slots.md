@@ -13,12 +13,12 @@ The cumulative requested slots can be seen below:
 | 15 | draft-claise-opsawg-ipfix-ordered-ie  | Benoit Claise | 60 | Y | N | N | Y |
 | 10 | draft-netana-opsawg-telemetry-over-quic | Benoit Claise | 70 | Y | N | Y | Y |
 | 15 | draft-mahesh-opsawg-veloce-yang | Mahesh Jethanandani | 85 | Y | N | Y  | Y |
-| 10 | draft-song-opsawg-ipfix-ecn  | Xueyan Song | 95 | Y | N | Y | Y |
-| 5  | draft-lin-opsawg-ipfix-sr-policy  | Changwang Lin | 100 | Y | N | Y | Y |
-| 5  | draft-lin-opsawg-ipfix-quic-header  | Changwang Lin | 105 | Y | N | Y | Y |
-| 5  | draft-cao-opsawg-ipfix-sav  | Qian Cao | 110 | Y | N | Y | Y |
-| 5  | draft-ietf-opsawg-ipfix-gpon-gem-03  | Thomas Graf | 115 | Y | Y | Y | Y |
-| 30 | Presentation of OPS ADs  | Mahesh Jethanandani and Mohamed Boucadair | 145 | Y | N/A | N | Y |
+| 5 | draft-song-opsawg-ipfix-ecn  | Xueyan Song | 90 | Y | N | Y | Y |
+| 5  | draft-lin-opsawg-ipfix-sr-policy  | Changwang Lin | 95 | Y | N | Y | Y |
+| 5  | draft-lin-opsawg-ipfix-quic-header  | Changwang Lin | 100 | Y | N | Y | Y |
+| 5  | draft-cao-opsawg-ipfix-sav  | Qian Cao | 105 | Y | N | Y | Y |
+| 5  | draft-ietf-opsawg-ipfix-gpon-gem-03  | Thomas Graf | 110 | Y | Y | Y | Y |
+| 30 | Presentation of OPS ADs  | Mahesh Jethanandani and Mohamed Boucadair | 140 | Y | N/A | N | Y |
 
 ## Requests from the chairs
 
