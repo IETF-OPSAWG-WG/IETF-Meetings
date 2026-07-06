@@ -88,12 +88,17 @@
 * Presenter: Benoit Claise
 * Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
 
-### 13. Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) (5 min)
+### 13. QUIC Transport for Network Telemetry (10 min)
+
+* Presenter: Benoit Claise
+* Reading Material: [draft-netana-opsawg-telemetry-over-quic](https://datatracker.ietf.org/doc/draft-netana-opsawg-telemetry-over-quic/)
+
+### 14. Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Thomas Graf
 * Reading Material: [draft-ietf-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gpon-gem/)
 
-### 14. TBD  (30 min)
+### 15. TBD  (30 min)
 
 * Presenter: Mahesh Jethanandani & Mohamed Boucadair
 * Reading Material: TBD
