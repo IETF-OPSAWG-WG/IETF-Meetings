@@ -24,7 +24,8 @@
 | 15:20 - 15:35| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
 | 15:35 - 15:45| QUIC Transport for Network Telemetry | Benoit Claise (On site) |
 | 15:45 - 15:50| Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
-| 15:50 - 16:20 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:50 - 16:00| Problem Statement for Network Resilience | Jing Zhao (On site)|
+| 14:00 - 16:30 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 
 
 ## Detailed Agenda
@@ -83,7 +84,7 @@
 * Presenter: Changwang Lin
 * Reading Material: [draft-lin-opsawg-ipfix-quic-header](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-quic-header/)
 
-### 12. Ordered Information Element Export in IP Flow Information Export (IPFIX) (10 min)
+### 12. Ordered Information Element Export in IP Flow Information Export (IPFIX) (15 min)
 
 * Presenter: Benoit Claise
 * Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
@@ -98,7 +99,12 @@
 * Presenter: Thomas Graf
 * Reading Material: [draft-ietf-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gpon-gem/)
 
-### 15. TBD  (30 min)
+### 15. Problem Statement for Network Resilience (10 min)
+
+* Presenter: Jing Zhao
+* Reading Material: [draft-zhao-opsawg-network-resilience-ps](https://datatracker.ietf.org/doc/draft-zhao-opsawg-network-resilience-ps/)
+
+### 16. TBD  (30 min)
 
 * Presenter: Mahesh Jethanandani & Mohamed Boucadair
 * Reading Material: TBD
