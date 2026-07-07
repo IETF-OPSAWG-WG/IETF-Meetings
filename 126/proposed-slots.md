@@ -21,7 +21,10 @@ The cumulative requested slots can be seen below:
 | 10 | draft-zhao-opsawg-network-resilience-ps | Jing Zhao | 120 |  Y | N | N | N/A |
 | 10 | draft-ietf-opsawg-scheduling-oam-tests | Qin Wu | 130 |  Y | Y | Y | Y |
 | 15 | draft-wnd-opsawg-icon-ps draft-mcw-opsawg-icon-requirements | Qin Wu | 145 |  Y | N | N | N/A |
-| 30 | Presentation of OPS ADs  | Mahesh Jethanandani and Mohamed Boucadair | 175 | Y | N/A | N | Y |
+| 5  | draft-liu-opsawg-stbl-req-per-packet | Kefei Liu | 150 | N | N | N | N/A |
+| 5  | draft-liu-opsawg-alt-mark-per-packet | Kefei Liu | 155 | N | N | N | N/A |
+| 5  | draft-ietf-opsawg-ipfix-alt-mark     | Giuseppe Fioccola | 160 | Y | Y | Y | N/A | 
+| 30 | Presentation of OPS ADs  | Mahesh Jethanandani and Mohamed Boucadair | 190 | Y | N/A | N | Y |
 ## Requests from the chairs
 
 * TBC
