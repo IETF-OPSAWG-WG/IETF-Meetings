@@ -11,9 +11,9 @@
 |     Slot      | Topic                                    | Presenters |
 |:----------------:|:---------------------------------------:|:-----------|
 | 14:00 - 14:10 | Introduction & Document Status & Agenda Bashing  | Chairs (On site) |
-| 14:10 - 14:15 | draft-ietf-opsawg-ipfix-gpon-gem-03 | Thomas Graf (On site) |
-| 14:15 - 14:25 | draft-ietf-opsawg-scheduling-oam-tests | Wu Qin (On site) |
-| 14:25 - 14:30 | draft-ietf-opsawg-ipfix-alt-mark | Giuseppe Fioccola (On site) |
+| 14:10 - 14:15 | Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
+| 14:15 - 14:25 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests | Wu Qin (On site) |
+| 14:25 - 14:30 | IP Flow Information Export (IPFIX) Alternate-Marking Information Elements | Giuseppe Fioccola (On site) |
 | 14:30 - 14:45 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh Jethanandani (On site) |
 | 14:45 - 14:55 | Security Operations Fundamentals and Guidance | Michael P (On site) |    Note: 10 min instead of 15
 | 14:55 - 15:00 | Export of BIER Information in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
@@ -39,6 +39,17 @@ buffer of 5 min
 
 * Presenter: Thomas Graf
 * Reading Material: [draft-ietf-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gpon-gem/)
+
+
+### 4. IP Flow Information Export (IPFIX) Alternate-Marking Information Elements (5 min)
+
+* Presenter: Michael P
+* Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
+
+### 4. IP Flow Information Export (IPFIX) Alternate-Marking Information Elements (5 min)
+
+* Presenter: Giuseppe Fioccola
+* Reading Material: [draft-ietf-opsawg-ipfix-alt-mark](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-alt-mark/)
 
 ### 5. YANG deVELpment PrOCEss & maintenance (VELOCE) (15 min)
 
@@ -90,26 +101,18 @@ buffer of 5 min
 * Presenter: Yao Liu
 * Reading Material: [draft-liu-opsawg-ipfix-bgp-vpn](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-vpn/)
 
-### 9. Export of RoCEv2 Base Transport Header (BTH) Information Using IP Flow Information Export (IPFIX) (5 min)
+### 15. AIOPS guidance (10 min)
 
-* Presenter: Haiyang Zhang
-* Reading Material: [draft-lin-opsawg-ipfix-rocev2](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-rocev2/)
+* Presenter: Mahesh Jethanandani & Mohamed Boucadair
+* Reading Material: None
 
-
-
-
-
-### 13. QUIC Transport for Network Telemetry (10 min)
-
-* Presenter: Benoit Claise
-* Reading Material: [draft-netana-opsawg-telemetry-over-quic](https://datatracker.ietf.org/doc/draft-netana-opsawg-telemetry-over-quic/)
-
-
-
-### 15. Problem Statement for Network Resilience (10 min)
+### 16. Problem Statement for Network Resilience (5 min)
 
 * Presenter: Jing Zhao
 * Reading Material: [draft-zhao-opsawg-network-resilience-ps](https://datatracker.ietf.org/doc/draft-zhao-opsawg-network-resilience-ps/)
+
+End.
+
 
 ### 16. TBD  (30 min)
 
