@@ -11,21 +11,22 @@
 |     Slot      | Topic                                    | Presenters |
 |:----------------:|:---------------------------------------:|:-----------|
 | 14:00 - 14:10 | Introduction & Document Status & Agenda Bashing  | Chairs (On site) |
-| 14:10 - 14:25 | Security Operations Fundamentals and Guidance | Michael P (On site) |
-| 14:25 - 14:40 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh Jethanandani (On site) |
-| 14:40 - 14:45 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
-| 14:45 - 14:50| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
-| 14:50 - 14:55| Export of BIER Information in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
-| 14:55 - 15:00| Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
-| 15:00 - 15:05| Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
-| 15:05 - 15:10| Export of RoCEv2 Base Transport Header (BTH) Information Using IP Flow Information Export (IPFIX) | Haiyang Zhang ( Remotely ) |
-| 15:10 - 15:15| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
-| 15:15 - 15:20| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
-| 15:20 - 15:35| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site) |
-| 15:35 - 15:45| QUIC Transport for Network Telemetry | Benoit Claise (On site) |
-| 15:45 - 15:50| Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) | Thomas Graf (On site) |
-| 15:50 - 16:00| Problem Statement for Network Resilience | Jing Zhao (On site)|
-| 14:00 - 16:30 | TBD  | Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 14:10 - 14:15 | draft-ietf-opsawg-ipfix-gpon-gem-03 | Thomas Graf (On site) |
+| 14:15 - 14:25 | draft-ietf-opsawg-scheduling-oam-tests | Wu Qin (On site) |
+| 14:25 - 14:30 | draft-ietf-opsawg-ipfix-alt-mark | Giuseppe Fioccola (On site) |
+| 14:30 - 14:45 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh Jethanandani (On site) |
+| 14:45 - 14:55 | Security Operations Fundamentals and Guidance | Michael P (On site) |    Note: 10 min instead of 15
+| 14:55 - 15:00 | Export of BIER Information in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
+| 15:00 - 15:05| Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
+| 15:05 - 15:15| Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site)     
+| 15:15 - 15:20 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
+| 15:20 - 15:25| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
+| 15:25 - 15:30| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
+| 15:30 - 15:35| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
+| 15:35 - 15:40| Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
+| 15:40 - 16:50 |  AIOPS guidance: Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:50 - 15:55| Problem Statement for Network Resilience | Jing Zhao (On site)|
+buffer of 5 min
 
 
 ## Detailed Agenda
