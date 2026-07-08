@@ -24,7 +24,7 @@ The cumulative requested slots can be seen below:
 | 5  | draft-liu-opsawg-stbl-req-per-packet | Kefei Liu | 150 | N | N | N | N/A |
 | 5  | draft-liu-opsawg-alt-mark-per-packet | Kefei Liu | 155 | N | N | N | N/A |
 | 5  | draft-ietf-opsawg-ipfix-alt-mark     | Giuseppe Fioccola | 160 | Y | Y | Y | N/A | 
-| 30 | Presentation of OPS ADs  | Mahesh Jethanandani and Mohamed Boucadair | 190 | Y | N/A | N | Y |
+| 5  | draft-li-opsawg-attack-sample-metadata | Linzhe Li | 165 | N | N | N | N/A |
 ## Requests from the chairs
 
 * TBC
