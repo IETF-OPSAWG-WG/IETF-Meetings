@@ -24,7 +24,7 @@
 | 15:25 - 15:30| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
 | 15:30 - 15:35| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
 | 15:35 - 15:40| Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
-| 15:40 - 16:50 |  AIOPS guidance: Mahesh Jethanandani & Mohamed Boucadair (On site) |
+| 15:40 - 16:50|  AIOPS guidance | Mahesh Jethanandani & Mohamed Boucadair (On site) |
 | 15:50 - 15:55| Problem Statement for Network Resilience | Jing Zhao (On site)|
 buffer of 5 min
 
