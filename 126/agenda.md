@@ -35,17 +35,37 @@ buffer of 5 min
 
 * Presenter: Joe Clarke & Benoît Claise
 
-### 2. Security Operations Fundamentals and Guidance (15 min)
+### 2. Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) (5 min)
 
-* Presenter: Michael P
-* Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
+* Presenter: Thomas Graf
+* Reading Material: [draft-ietf-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gpon-gem/)
 
-### 3. YANG deVELpment PrOCEss & maintenance (VELOCE) (15 min)
+### 5. YANG deVELpment PrOCEss & maintenance (VELOCE) (15 min)
 
 * Presenter: Mahesh Jethanandani
 * Reading Material: [draft-mahesh-opsawg-veloce-yang](https://datatracker.ietf.org/doc/draft-mahesh-opsawg-veloce-yang/)
 
-### 4. Export of L4S ECN in IP Flow Information Export (IPFIX) (5 min)
+### 6. Security Operations Fundamentals and Guidance (15 min)
+
+* Presenter: Michael P
+* Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
+
+### 7. Export of BIER Information in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Yisong Liu
+* Reading Material: [draft-ll-opsawg-ipfix-bier](https://datatracker.ietf.org/doc/draft-ll-opsawg-ipfix-bier/)
+
+### 8. Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) (5 min)
+
+* Presenter: Yisong Liu 
+* Reading Material: [draft-liu-opsawg-ipfix-bgp-pov](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-pov/)
+
+### 9. Ordered Information Element Export in IP Flow Information Export (IPFIX) (15 min)
+
+* Presenter: Benoit Claise
+* Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
+
+### 10. Export of L4S ECN in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Xueyan Song
 * Reading Material: [draft-song-opsawg-ipfix-ecn](https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
@@ -55,15 +75,7 @@ buffer of 5 min
 * Presenter: Qian Cao
 * Reading Material: [draft-cao-opsawg-ipfix-sav](https://datatracker.ietf.org/doc/draft-cao-opsawg-ipfix-sav/)
 
-### 6. Export of BIER Information in IP Flow Information Export (IPFIX) (5 min)
 
-* Presenter: Yisong Liu
-* Reading Material: [draft-ll-opsawg-ipfix-bier](https://datatracker.ietf.org/doc/draft-ll-opsawg-ipfix-bier/)
-
-### 7. Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) (5 min)
-
-* Presenter: Yisong Liu 
-* Reading Material: [draft-liu-opsawg-ipfix-bgp-pov](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-pov/)
 
 ### 8. Export of BGP VPN Information in IPFIX (5 min)
 
@@ -85,20 +97,14 @@ buffer of 5 min
 * Presenter: Changwang Lin
 * Reading Material: [draft-lin-opsawg-ipfix-quic-header](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-quic-header/)
 
-### 12. Ordered Information Element Export in IP Flow Information Export (IPFIX) (15 min)
 
-* Presenter: Benoit Claise
-* Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
 
 ### 13. QUIC Transport for Network Telemetry (10 min)
 
 * Presenter: Benoit Claise
 * Reading Material: [draft-netana-opsawg-telemetry-over-quic](https://datatracker.ietf.org/doc/draft-netana-opsawg-telemetry-over-quic/)
 
-### 14. Export of Gigabit Passive Optical Network Encapsulation Mode in IP Flow Information Export (IPFIX) (5 min)
 
-* Presenter: Thomas Graf
-* Reading Material: [draft-ietf-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gpon-gem/)
 
 ### 15. Problem Statement for Network Resilience (10 min)
 
