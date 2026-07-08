@@ -71,7 +71,7 @@ buffer of 5 min
 * Presenter: Yisong Liu 
 * Reading Material: [draft-liu-opsawg-ipfix-bgp-pov](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-pov/)
 
-### 9. Ordered Information Element Export in IP Flow Information Export (IPFIX) (15 min)
+### 9. Ordered Information Element Export in IP Flow Information Export (IPFIX) (10 min)
 
 * Presenter: Benoit Claise
 * Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
