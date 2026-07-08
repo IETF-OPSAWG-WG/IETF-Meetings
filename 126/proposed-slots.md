@@ -10,7 +10,7 @@ The cumulative requested slots can be seen below:
 | 5  | draft-liu-opsawg-ipfix-bgp-pov  | Yisong Liu | 35 | Y | N | Y | N/A |
 | 5  | draft-lin-opsawg-ipfix-rocev2   | Haiyang Zhang | 40 | N | N | N | N/A |
 | 5  | draft-liu-opsawg-ipfix-bgp-vpn  |  Yao Liu | 45 | Y | N | N | N/A |
-| 15 | draft-claise-opsawg-ipfix-ordered-ie  | Benoit Claise | 60 | Y | N | N | N/A |
+| 15 | draft-claise-opsawg-ipfix-ordered-ie  | Benoit Claise | 60 | Y | N | Y | N/A |
 | 10 | draft-netana-opsawg-telemetry-over-quic | Benoit Claise | 70 | Y | N | Y | N/A |
 | 15 | draft-mahesh-opsawg-veloce-yang | Mahesh Jethanandani | 85 | Y | N | Y  | Y |
 | 5  | draft-song-opsawg-ipfix-ecn  | Xueyan Song | 90 | Y | N | Y | N/A |
