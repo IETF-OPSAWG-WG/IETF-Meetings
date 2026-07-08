@@ -113,10 +113,3 @@ buffer of 5 min
 
 End.
 
-
-### 16. TBD  (30 min)
-
-* Presenter: Mahesh Jethanandani & Mohamed Boucadair
-* Reading Material: TBD
-
-
