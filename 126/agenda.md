@@ -41,10 +41,10 @@ buffer of 5 min
 * Reading Material: [draft-ietf-opsawg-ipfix-gpon-gem](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-gpon-gem/)
 
 
-### 4. IP Flow Information Export (IPFIX) Alternate-Marking Information Elements (5 min)
+### 3. A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests (10 min)
 
-* Presenter: Michael P
-* Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
+* Presenter: Wu Qin
+* Reading Material: [draft-ietf-opsawg-scheduling-oam-tests](https://datatracker.ietf.org/doc/draft-ietf-opsawg-scheduling-oam-tests/)
 
 ### 4. IP Flow Information Export (IPFIX) Alternate-Marking Information Elements (5 min)
 
