@@ -56,7 +56,7 @@ buffer of 5 min
 * Presenter: Mahesh Jethanandani
 * Reading Material: [draft-mahesh-opsawg-veloce-yang](https://datatracker.ietf.org/doc/draft-mahesh-opsawg-veloce-yang/)
 
-### 6. Security Operations Fundamentals and Guidance (15 min)
+### 6. Security Operations Fundamentals and Guidance (10 min)
 
 * Presenter: Michael P
 * Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
