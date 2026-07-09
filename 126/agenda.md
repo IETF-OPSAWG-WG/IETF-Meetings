@@ -16,16 +16,17 @@
 | 14:25 - 14:30 | IP Flow Information Export (IPFIX) Alternate-Marking Information Elements | Giuseppe Fioccola (On site) |
 | 14:30 - 14:40 | Applying COSE Signatures for YANG Data Provenance | Ana Mendez & Diego Lopez (On site) |
 | 14:40 - 14:55 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh Jethanandani (On site) |
-| 14:55 - 15:05 | Security Operations Fundamentals and Guidance | Michael P (On site) |    Note: 10 min instead of 15
-| 15:05 - 15:10 | Export of BIER Information in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
-| 15:10 - 15:15 | Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
-| 15:15 - 15:25 | Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site)     
+| 14:55 - 15:05 | Security Operations Fundamentals and Guidance | Michael P (On site) |  
+| 14:05 - 15:10 | QUIC Transport for Network Telemetry | Benoit Claise (On site) |  
+| 15:10 - 15:15 | Export of BIER Information in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
+| 15:05 - 15:20 | Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
+| 15:20 - 15:25 | Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site)     
 | 15:25 - 15:30 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
-| 15:30 - 15:35| Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
-| 15:35 - 15:40| Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
-| 15:40 - 15:45| Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
-| 15:45 - 15:50| Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
-| 15:50 - 15:55| Problem Statement for Network Resilience | Jing Zhao (On site)|
+| 15:30 - 15:35 | Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
+| 15:35 - 15:40 | Export of QUIC Information in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
+| 15:40 - 15:45 | Export of Source Address Validation (SAV) Information in IPFIX | Qian Cao (On site) |
+| 15:45 - 15:50 | Export of BGP VPN Information in IPFIX | Yao Liu (On site) |
+| 15:50 - 15:55 | Problem Statement for Network Resilience | Jing Zhao (On site)|
 buffer of 5 min
 
 
@@ -66,47 +67,52 @@ buffer of 5 min
 * Presenter: Michael P
 * Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
 
-### 8. Export of BIER Information in IP Flow Information Export (IPFIX) (5 min)
+### 8. QUIC Transport for Network Telemetry (IPFIX) (5 min)
+
+* Presenter: Benoit Claise
+* Reading Material: [draft-netana-opsawg-telemetry-over-quic](https://datatracker.ietf.org/doc/draft-netana-opsawg-telemetry-over-quic/)
+
+### 9. Export of BIER Information in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Yisong Liu
 * Reading Material: [draft-ll-opsawg-ipfix-bier](https://datatracker.ietf.org/doc/draft-ll-opsawg-ipfix-bier/)
 
-### 9. Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) (5 min)
+### 10. Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Yisong Liu 
 * Reading Material: [draft-liu-opsawg-ipfix-bgp-pov](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-pov/)
 
-### 10. Ordered Information Element Export in IP Flow Information Export (IPFIX) (10 min)
+### 11. Ordered Information Element Export in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Benoit Claise
 * Reading Material: [draft-claise-opsawg-ipfix-ordered-ie](https://datatracker.ietf.org/doc/draft-claise-opsawg-ipfix-ordered-ie/)
 
-### 11. Export of L4S ECN in IP Flow Information Export (IPFIX) (5 min)
+### 12. Export of L4S ECN in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Xueyan Song
 * Reading Material: [draft-song-opsawg-ipfix-ecn](https://datatracker.ietf.org/doc/draft-song-opsawg-ipfix-ecn/)
 
-### 12. Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) (5 min)
+### 13. Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Changwang Lin
 * Reading Material: [draft-lin-opsawg-ipfix-sr-policy](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-sr-policy/)
 
-### 13. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
+### 14. Export of QUIC Information in IP Flow Information Export (IPFIX) (5 min)
 
 * Presenter: Changwang Lin
 * Reading Material: [draft-lin-opsawg-ipfix-quic-header](https://datatracker.ietf.org/doc/draft-lin-opsawg-ipfix-quic-header/)
 
-### 14. Export of Source Address Validation (SAV) Information in IPFIX (5 min)
+### 15. Export of Source Address Validation (SAV) Information in IPFIX (5 min)
 
 * Presenter: Qian Cao
 * Reading Material: [draft-cao-opsawg-ipfix-sav](https://datatracker.ietf.org/doc/draft-cao-opsawg-ipfix-sav/)
 
-### 15. Export of BGP VPN Information in IPFIX (5 min)
+### 16. Export of BGP VPN Information in IPFIX (5 min)
 
 * Presenter: Yao Liu
 * Reading Material: [draft-liu-opsawg-ipfix-bgp-vpn](https://datatracker.ietf.org/doc/draft-liu-opsawg-ipfix-bgp-vpn/)
 
-### 16. Problem Statement for Network Resilience (5 min)
+### 17. Problem Statement for Network Resilience (5 min)
 
 * Presenter: Jing Zhao
 * Reading Material: [draft-zhao-opsawg-network-resilience-ps](https://datatracker.ietf.org/doc/draft-zhao-opsawg-network-resilience-ps/)
