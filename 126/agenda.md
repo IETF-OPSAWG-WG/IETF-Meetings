@@ -17,9 +17,9 @@
 | 14:30 - 14:40 | Applying COSE Signatures for YANG Data Provenance | Ana Mendez & Diego Lopez (On site) |
 | 14:40 - 14:55 | YANG deVELpment PrOCEss & maintenance (VELOCE) | Mahesh Jethanandani (On site) |
 | 14:55 - 15:05 | Security Operations Fundamentals and Guidance | Michael P (On site) |  
-| 14:05 - 15:10 | QUIC Transport for Network Telemetry | Benoit Claise (On site) |  
+| 15:05 - 15:10 | QUIC Transport for Network Telemetry | Benoit Claise (On site) |  
 | 15:10 - 15:15 | Export of BIER Information in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
-| 15:05 - 15:20 | Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
+| 15:15 - 15:20 | Export of BGP Prefix Origin Validation in IP Flow Information Export (IPFIX) | Yisong Liu (On site) |
 | 15:20 - 15:25 | Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoit Claise (On site)     
 | 15:25 - 15:30 | Export of L4S ECN in IP Flow Information Export (IPFIX) | Xueyan Song (On site) |
 | 15:30 - 15:35 | Export of Segment Routing Policy Attributes in IP Flow Information Export (IPFIX) | Changwang Lin (On site) |
