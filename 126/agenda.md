@@ -67,7 +67,7 @@ buffer of 5 min
 * Presenter: Michael P
 * Reading Material: [draft-parsons-opsawg-security-operations](https://datatracker.ietf.org/doc/draft-parsons-opsawg-security-operations/)
 
-### 8. QUIC Transport for Network Telemetry (IPFIX) (5 min)
+### 8. QUIC Transport for Network Telemetry (5 min)
 
 * Presenter: Benoit Claise
 * Reading Material: [draft-netana-opsawg-telemetry-over-quic](https://datatracker.ietf.org/doc/draft-netana-opsawg-telemetry-over-quic/)
