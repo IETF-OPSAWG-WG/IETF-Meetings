@@ -9,7 +9,7 @@ The cumulative requested slots can be seen below:
 | 15 | YANG deVELpment PrOCEss and maintenance (VELOCE) | Qin/Dhruv/Michael  | 45 | Y | Y | Y | Y | 
 | 5  | Applying COSE Signatures for YANG Data Provenance | Diego Lopez  | 50 | Y | Y | Y | Y |
 | 10 | Export of IGP Algorithm Information in IPFIX | Yao Liu  | 60 | N | N | Y | Y | 
-| 10 | Normalized Representation of YANG Data for Equivalence Evaluation | Ana Mendez  | 70 | Y | N | N | Y | 
+| 10 | Normalized Representation of YANG Data for Equivalence Evaluation | Ana Mendez  | 70 | Y | N | Y | Y | 
 | 5  | Export of RoCEv2 Base Transport Header (BTH) Information Using IPFIX | Haiyang Zhang | 75 | N | N | Y | Y | 
 
 ## Requests from the chairs
