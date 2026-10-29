@@ -11,6 +11,8 @@ The cumulative requested slots can be seen below:
 | 10 | Export of IGP Algorithm Information in IPFIX | Yao Liu  | 60 | N | N | Y | Y | 
 | 10 | Normalized Representation of YANG Data for Equivalence Evaluation | Ana Mendez  | 70 | Y | N | Y | Y | 
 | 5  | Export of RoCEv2 Base Transport Header (BTH) Information Using IPFIX | Haiyang Zhang | 75 | N | N | Y | Y | 
+| 10 | Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoît Claise  | 85 | Y | N | Y | Y | 
+| 10  | draft-claise-opsawg-ipfix-ordered-mpls-ie | Benoît Claise | 95 | Y | N | Y | Y | 
 
 ## Requests from the chairs
 
