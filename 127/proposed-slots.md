@@ -13,7 +13,7 @@ The cumulative requested slots can be seen below:
 | 5  | Export of RoCEv2 Base Transport Header (BTH) Information Using IPFIX | Haiyang Zhang | 75 | N | N | Y | Y | 
 | 10 | Ordered Information Element Export in IP Flow Information Export (IPFIX) | Benoît Claise  | 85 | Y | N | Y | Y | 
 | 10 | draft-claise-opsawg-ipfix-ordered-mpls-ie | Benoît Claise | 95 | Y | N | Y | Y | 
-| 10 | Export of BGP FlowSpec Treatment Information in IPFIX | 105 | N | N | N | Y |
+| 10 | Export of BGP FlowSpec Treatment Information in IPFIX | Yujia Gao | 105 | N | N | N | Y |
 
 ## Requests from the chairs
 
