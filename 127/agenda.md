@@ -13,7 +13,7 @@
 | 14:00 - 14:10 | Chairs Slides and Administrivia          | Chairs (On site) |
 | 14:10 - 14:20 | Export of ECN Information in IPFIX       | Xueyan Song (Remote) |
 | 14:20 - 14:30 | A YANG Data Model for Network Diagnosis using Scheduled Sequences of OAM Tests | Victor Lopez (On site) |
-| 14:30 - 14:45 | YANG deVELopment PrOCE and maintenance (VELOCE) | Qing / Dhruv / Michael (On site) |
+| 14:30 - 14:45 | YANG deVELopment PrOCE and maintenance (VELOCE) | Qin / Dhruv / Michael (On site) |
 | 14:45 - 14:50 | Applying COSE Signatures for YANG Data Provenance | Diego Lopez (On site) |
 | 14:50 - 15:00 | Export of IGP Algorithm Information in IPFIX | Yao Liu (Remote) |
 | 15:00 - 15:10 | Normalized Representation of YANG Data for Equivalence Evaluation | Ana Mendez (On site) |
