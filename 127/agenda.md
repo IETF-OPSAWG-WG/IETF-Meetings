@@ -74,4 +74,6 @@
 * Presenter: Yujia Gao
 * Reading Material: [draft-gao-opsawg-flowspec-ipfix](https://datatracker.ietf.org/doc/draft-gao-opsawg-flowspec-ipfix/)
 
+### Open discussion
+
 ### End
