@@ -41,7 +41,7 @@
 
 ### 4. YANG deVELopment PrOCEss and maintenance (VELOCE) (15 min)
 
-* Presenter: Qin / Dhruv / Michael
+* Presenter: Michael
 * Reading Material: [draft-ietf-opsawg-veloce-yang](https://datatracker.ietf.org/doc/draft-ietf-opsawg-veloce-yang/)
 
 ### 5. Applying COSE Signatures for YANG Data Provenance (5 min)
