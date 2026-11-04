@@ -20,7 +20,7 @@
 | 15:10 - 15:15 | Export of RoCEv2 Base Transport Header (BTH) Information Using IPFIX | Haiyang Zhang (Remote) |
 | 15:15 - 15:30 | Ordered Information Element Export in IP Flow Information Export (IPFIX) | Paolo Lucente (On site) |
 | 15:30 - 15:40 | Export of BGP FlowSpec Treatment Information in IPFIX | Yujia Gao (Remote) |
-| 15:40 - 16:00 | Buffer (Open discussion) | |
+| 15:40 - 16:00 | Buffer (Open discussion) | All |
 
 
 ## Detailed Agenda
